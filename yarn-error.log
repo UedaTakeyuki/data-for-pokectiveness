@@ -1,0 +1,44 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add -D webpack webpack-cli
+
+PATH: 
+  /Users/takeyuki/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/local/heroku/bin:/Users/takeyuki/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mongodb/bin:/usr/local/go/bin:/opt/X11/bin:/Users/takeyuki/.cargo/bin:/usr/local/sbin:/usr/local/heroku/bin:/Users/takeyuki/.rbenv/shims:/Users/takeyuki/development/flutter/bin:/Users/takeyuki/development/flutter/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.18.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Volumes/devtmp/MyJs/data-for-pokectiveness/package.json: Unexpected token } in JSON at position 445
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "data-for-pokectiveness",
+    "version": "1.0.0",
+    "description": "Pokémon data for pokectiveness",
+    "main": "index.js",
+    "repository": "https://github.com/UedaTakeyuki/data-for-pokectiveness",
+    "homepage": "https://github.com/UedaTakeyuki/data-for-pokectiveness",
+    "bugs": {
+      "url": "https://github.com/UedaTakeyuki/data-for-pokectiveness/issues"
+    },
+    "license": "MIT",
+    "private": false,
+    "main": "./src/build-entry.js",
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
