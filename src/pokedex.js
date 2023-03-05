@@ -1,4 +1,4 @@
-﻿export default [
+export default [
     {
         "id": 1,
         "name": {
@@ -13,9 +13,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
-        "desc": "https://www.pokemon.com/us/pokedex/001"
+        ]
     },
     {
         "id": 2,
@@ -31,9 +29,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
-        "desc": "https://www.pokemon.com/us/pokedex/002"
+        ]
     },
     {
         "id": 3,
@@ -49,9 +45,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
-        "desc": "https://www.pokemon.com/us/pokedex/003"
+        ]
     },
     {
         "id": 4,
@@ -66,9 +60,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
-        "desc": "https://www.pokemon.com/us/pokedex/004"
+        ]
     },
     {
         "id": 5,
@@ -83,9 +75,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
-        "desc": "https://www.pokemon.com/us/pokedex/005"
+        ]
     },
     {
         "id": 6,
@@ -101,9 +91,7 @@
         "type": [
             "Fire",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
-        "desc": "https://www.pokemon.com/us/pokedex/006"
+        ]
     },
     {
         "id": 7,
@@ -118,9 +106,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
-        "desc": "https://www.pokemon.com/us/pokedex/007"
+        ]
     },
     {
         "id": 8,
@@ -135,9 +121,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
-        "desc": "https://www.pokemon.com/us/pokedex/008"
+        ]
     },
     {
         "id": 9,
@@ -152,9 +136,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
-        "desc": "https://www.pokemon.com/us/pokedex/009"
+        ]
     },
     {
         "id": 10,
@@ -169,9 +151,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
-        "desc": "https://www.pokemon.com/us/pokedex/010"
+        ]
     },
     {
         "id": 11,
@@ -186,9 +166,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
-        "desc": "https://www.pokemon.com/us/pokedex/011"
+        ]
     },
     {
         "id": 12,
@@ -204,9 +182,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
-        "desc": "https://www.pokemon.com/us/pokedex/012"
+        ]
     },
     {
         "id": 13,
@@ -222,9 +198,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
-        "desc": "https://www.pokemon.com/us/pokedex/013"
+        ]
     },
     {
         "id": 14,
@@ -240,9 +214,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
-        "desc": "https://www.pokemon.com/us/pokedex/014"
+        ]
     },
     {
         "id": 15,
@@ -258,9 +230,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
-        "desc": "https://www.pokemon.com/us/pokedex/015"
+        ]
     },
     {
         "id": 16,
@@ -276,9 +246,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
-        "desc": "https://www.pokemon.com/us/pokedex/016"
+        ]
     },
     {
         "id": 17,
@@ -294,9 +262,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
-        "desc": "https://www.pokemon.com/us/pokedex/017"
+        ]
     },
     {
         "id": 18,
@@ -312,9 +278,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
-        "desc": "https://www.pokemon.com/us/pokedex/018"
+        ]
     },
     {
         "id": 19,
@@ -329,9 +293,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
-        "desc": "https://www.pokemon.com/us/pokedex/019"
+        ]
     },
     {
         "id": 20,
@@ -346,9 +308,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
-        "desc": "https://www.pokemon.com/us/pokedex/020"
+        ]
     },
     {
         "id": 21,
@@ -364,9 +324,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
-        "desc": "https://www.pokemon.com/us/pokedex/021"
+        ]
     },
     {
         "id": 22,
@@ -382,9 +340,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
-        "desc": "https://www.pokemon.com/us/pokedex/022"
+        ]
     },
     {
         "id": 23,
@@ -399,9 +355,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
-        "desc": "https://www.pokemon.com/us/pokedex/023"
+        ]
     },
     {
         "id": 24,
@@ -416,9 +370,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
-        "desc": "https://www.pokemon.com/us/pokedex/024"
+        ]
     },
     {
         "id": 25,
@@ -433,9 +385,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
-        "desc": "https://www.pokemon.com/us/pokedex/025"
+        ]
     },
     {
         "id": 26,
@@ -450,9 +400,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
-        "desc": "https://www.pokemon.com/us/pokedex/026"
+        ]
     },
     {
         "id": 27,
@@ -467,9 +415,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
-        "desc": "https://www.pokemon.com/us/pokedex/027"
+        ]
     },
     {
         "id": 28,
@@ -484,9 +430,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
-        "desc": "https://www.pokemon.com/us/pokedex/028"
+        ]
     },
     {
         "id": 29,
@@ -501,9 +445,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png",
-        "desc": "https://www.pokemon.com/us/pokedex/029"
+        ]
     },
     {
         "id": 30,
@@ -518,9 +460,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
-        "desc": "https://www.pokemon.com/us/pokedex/030"
+        ]
     },
     {
         "id": 31,
@@ -536,9 +476,7 @@
         "type": [
             "Poison",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
-        "desc": "https://www.pokemon.com/us/pokedex/031"
+        ]
     },
     {
         "id": 32,
@@ -553,9 +491,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
-        "desc": "https://www.pokemon.com/us/pokedex/032"
+        ]
     },
     {
         "id": 33,
@@ -570,9 +506,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png",
-        "desc": "https://www.pokemon.com/us/pokedex/033"
+        ]
     },
     {
         "id": 34,
@@ -588,9 +522,7 @@
         "type": [
             "Poison",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
-        "desc": "https://www.pokemon.com/us/pokedex/034"
+        ]
     },
     {
         "id": 35,
@@ -605,9 +537,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
-        "desc": "https://www.pokemon.com/us/pokedex/035"
+        ]
     },
     {
         "id": 36,
@@ -622,9 +552,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png",
-        "desc": "https://www.pokemon.com/us/pokedex/036"
+        ]
     },
     {
         "id": 37,
@@ -639,9 +567,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
-        "desc": "https://www.pokemon.com/us/pokedex/037"
+        ]
     },
     {
         "id": 38,
@@ -656,9 +582,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
-        "desc": "https://www.pokemon.com/us/pokedex/038"
+        ]
     },
     {
         "id": 39,
@@ -674,9 +598,7 @@
         "type": [
             "Normal",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
-        "desc": "https://www.pokemon.com/us/pokedex/039"
+        ]
     },
     {
         "id": 40,
@@ -692,9 +614,7 @@
         "type": [
             "Normal",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png",
-        "desc": "https://www.pokemon.com/us/pokedex/040"
+        ]
     },
     {
         "id": 41,
@@ -710,9 +630,7 @@
         "type": [
             "Poison",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
-        "desc": "https://www.pokemon.com/us/pokedex/041"
+        ]
     },
     {
         "id": 42,
@@ -728,9 +646,7 @@
         "type": [
             "Poison",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png",
-        "desc": "https://www.pokemon.com/us/pokedex/042"
+        ]
     },
     {
         "id": 43,
@@ -746,9 +662,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png",
-        "desc": "https://www.pokemon.com/us/pokedex/043"
+        ]
     },
     {
         "id": 44,
@@ -764,9 +678,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png",
-        "desc": "https://www.pokemon.com/us/pokedex/044"
+        ]
     },
     {
         "id": 45,
@@ -782,9 +694,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
-        "desc": "https://www.pokemon.com/us/pokedex/045"
+        ]
     },
     {
         "id": 46,
@@ -800,9 +710,7 @@
         "type": [
             "Bug",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
-        "desc": "https://www.pokemon.com/us/pokedex/046"
+        ]
     },
     {
         "id": 47,
@@ -818,9 +726,7 @@
         "type": [
             "Bug",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png",
-        "desc": "https://www.pokemon.com/us/pokedex/047"
+        ]
     },
     {
         "id": 48,
@@ -836,9 +742,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
-        "desc": "https://www.pokemon.com/us/pokedex/048"
+        ]
     },
     {
         "id": 49,
@@ -854,9 +758,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
-        "desc": "https://www.pokemon.com/us/pokedex/049"
+        ]
     },
     {
         "id": 50,
@@ -871,9 +773,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
-        "desc": "https://www.pokemon.com/us/pokedex/050"
+        ]
     },
     {
         "id": 51,
@@ -888,9 +788,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
-        "desc": "https://www.pokemon.com/us/pokedex/051"
+        ]
     },
     {
         "id": 52,
@@ -905,9 +803,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
-        "desc": "https://www.pokemon.com/us/pokedex/052"
+        ]
     },
     {
         "id": 53,
@@ -922,9 +818,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
-        "desc": "https://www.pokemon.com/us/pokedex/053"
+        ]
     },
     {
         "id": 54,
@@ -939,9 +833,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
-        "desc": "https://www.pokemon.com/us/pokedex/054"
+        ]
     },
     {
         "id": 55,
@@ -956,9 +848,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
-        "desc": "https://www.pokemon.com/us/pokedex/055"
+        ]
     },
     {
         "id": 56,
@@ -973,9 +863,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
-        "desc": "https://www.pokemon.com/us/pokedex/056"
+        ]
     },
     {
         "id": 57,
@@ -990,9 +878,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png",
-        "desc": "https://www.pokemon.com/us/pokedex/057"
+        ]
     },
     {
         "id": 58,
@@ -1007,9 +893,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
-        "desc": "https://www.pokemon.com/us/pokedex/058"
+        ]
     },
     {
         "id": 59,
@@ -1024,9 +908,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
-        "desc": "https://www.pokemon.com/us/pokedex/059"
+        ]
     },
     {
         "id": 60,
@@ -1041,9 +923,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
-        "desc": "https://www.pokemon.com/us/pokedex/060"
+        ]
     },
     {
         "id": 61,
@@ -1058,9 +938,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png",
-        "desc": "https://www.pokemon.com/us/pokedex/061"
+        ]
     },
     {
         "id": 62,
@@ -1076,9 +954,7 @@
         "type": [
             "Water",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png",
-        "desc": "https://www.pokemon.com/us/pokedex/062"
+        ]
     },
     {
         "id": 63,
@@ -1093,9 +969,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
-        "desc": "https://www.pokemon.com/us/pokedex/063"
+        ]
     },
     {
         "id": 64,
@@ -1110,9 +984,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
-        "desc": "https://www.pokemon.com/us/pokedex/064"
+        ]
     },
     {
         "id": 65,
@@ -1127,9 +999,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
-        "desc": "https://www.pokemon.com/us/pokedex/065"
+        ]
     },
     {
         "id": 66,
@@ -1144,9 +1014,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
-        "desc": "https://www.pokemon.com/us/pokedex/066"
+        ]
     },
     {
         "id": 67,
@@ -1161,9 +1029,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png",
-        "desc": "https://www.pokemon.com/us/pokedex/067"
+        ]
     },
     {
         "id": 68,
@@ -1178,9 +1044,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png",
-        "desc": "https://www.pokemon.com/us/pokedex/068"
+        ]
     },
     {
         "id": 69,
@@ -1196,9 +1060,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
-        "desc": "https://www.pokemon.com/us/pokedex/069"
+        ]
     },
     {
         "id": 70,
@@ -1214,9 +1076,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png",
-        "desc": "https://www.pokemon.com/us/pokedex/070"
+        ]
     },
     {
         "id": 71,
@@ -1232,9 +1092,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png",
-        "desc": "https://www.pokemon.com/us/pokedex/071"
+        ]
     },
     {
         "id": 72,
@@ -1250,9 +1108,7 @@
         "type": [
             "Water",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
-        "desc": "https://www.pokemon.com/us/pokedex/072"
+        ]
     },
     {
         "id": 73,
@@ -1268,9 +1124,7 @@
         "type": [
             "Water",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png",
-        "desc": "https://www.pokemon.com/us/pokedex/073"
+        ]
     },
     {
         "id": 74,
@@ -1286,9 +1140,7 @@
         "type": [
             "Rock",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
-        "desc": "https://www.pokemon.com/us/pokedex/074"
+        ]
     },
     {
         "id": 75,
@@ -1304,9 +1156,7 @@
         "type": [
             "Rock",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png",
-        "desc": "https://www.pokemon.com/us/pokedex/075"
+        ]
     },
     {
         "id": 76,
@@ -1322,9 +1172,7 @@
         "type": [
             "Rock",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
-        "desc": "https://www.pokemon.com/us/pokedex/076"
+        ]
     },
     {
         "id": 77,
@@ -1339,9 +1187,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
-        "desc": "https://www.pokemon.com/us/pokedex/077"
+        ]
     },
     {
         "id": 78,
@@ -1356,9 +1202,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
-        "desc": "https://www.pokemon.com/us/pokedex/078"
+        ]
     },
     {
         "id": 79,
@@ -1374,9 +1218,7 @@
         "type": [
             "Water",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
-        "desc": "https://www.pokemon.com/us/pokedex/079"
+        ]
     },
     {
         "id": 80,
@@ -1392,9 +1234,7 @@
         "type": [
             "Water",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
-        "desc": "https://www.pokemon.com/us/pokedex/080"
+        ]
     },
     {
         "id": 81,
@@ -1410,9 +1250,7 @@
         "type": [
             "Electric",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png",
-        "desc": "https://www.pokemon.com/us/pokedex/081"
+        ]
     },
     {
         "id": 82,
@@ -1428,9 +1266,7 @@
         "type": [
             "Electric",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
-        "desc": "https://www.pokemon.com/us/pokedex/082"
+        ]
     },
     {
         "id": 83,
@@ -1446,9 +1282,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png",
-        "desc": "https://www.pokemon.com/us/pokedex/083"
+        ]
     },
     {
         "id": 84,
@@ -1464,9 +1298,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png",
-        "desc": "https://www.pokemon.com/us/pokedex/084"
+        ]
     },
     {
         "id": 85,
@@ -1482,9 +1314,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png",
-        "desc": "https://www.pokemon.com/us/pokedex/085"
+        ]
     },
     {
         "id": 86,
@@ -1499,9 +1329,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png",
-        "desc": "https://www.pokemon.com/us/pokedex/086"
+        ]
     },
     {
         "id": 87,
@@ -1517,9 +1345,7 @@
         "type": [
             "Water",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
-        "desc": "https://www.pokemon.com/us/pokedex/087"
+        ]
     },
     {
         "id": 88,
@@ -1534,9 +1360,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
-        "desc": "https://www.pokemon.com/us/pokedex/088"
+        ]
     },
     {
         "id": 89,
@@ -1551,9 +1375,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
-        "desc": "https://www.pokemon.com/us/pokedex/089"
+        ]
     },
     {
         "id": 90,
@@ -1568,9 +1390,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png",
-        "desc": "https://www.pokemon.com/us/pokedex/090"
+        ]
     },
     {
         "id": 91,
@@ -1586,9 +1406,7 @@
         "type": [
             "Water",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
-        "desc": "https://www.pokemon.com/us/pokedex/091"
+        ]
     },
     {
         "id": 92,
@@ -1604,9 +1422,7 @@
         "type": [
             "Ghost",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
-        "desc": "https://www.pokemon.com/us/pokedex/092"
+        ]
     },
     {
         "id": 93,
@@ -1622,9 +1438,7 @@
         "type": [
             "Ghost",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
-        "desc": "https://www.pokemon.com/us/pokedex/093"
+        ]
     },
     {
         "id": 94,
@@ -1640,9 +1454,7 @@
         "type": [
             "Ghost",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
-        "desc": "https://www.pokemon.com/us/pokedex/094"
+        ]
     },
     {
         "id": 95,
@@ -1658,9 +1470,7 @@
         "type": [
             "Rock",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
-        "desc": "https://www.pokemon.com/us/pokedex/095"
+        ]
     },
     {
         "id": 96,
@@ -1675,9 +1485,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
-        "desc": "https://www.pokemon.com/us/pokedex/096"
+        ]
     },
     {
         "id": 97,
@@ -1692,9 +1500,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png",
-        "desc": "https://www.pokemon.com/us/pokedex/097"
+        ]
     },
     {
         "id": 98,
@@ -1709,9 +1515,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png",
-        "desc": "https://www.pokemon.com/us/pokedex/098"
+        ]
     },
     {
         "id": 99,
@@ -1726,9 +1530,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
-        "desc": "https://www.pokemon.com/us/pokedex/099"
+        ]
     },
     {
         "id": 100,
@@ -1743,9 +1545,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
-        "desc": "https://www.pokemon.com/us/pokedex/100"
+        ]
     },
     {
         "id": 101,
@@ -1760,9 +1560,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png",
-        "desc": "https://www.pokemon.com/us/pokedex/101"
+        ]
     },
     {
         "id": 102,
@@ -1778,9 +1576,7 @@
         "type": [
             "Grass",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png",
-        "desc": "https://www.pokemon.com/us/pokedex/102"
+        ]
     },
     {
         "id": 103,
@@ -1796,9 +1592,7 @@
         "type": [
             "Grass",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png",
-        "desc": "https://www.pokemon.com/us/pokedex/103"
+        ]
     },
     {
         "id": 104,
@@ -1813,9 +1607,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
-        "desc": "https://www.pokemon.com/us/pokedex/104"
+        ]
     },
     {
         "id": 105,
@@ -1830,9 +1622,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png",
-        "desc": "https://www.pokemon.com/us/pokedex/105"
+        ]
     },
     {
         "id": 106,
@@ -1847,9 +1637,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
-        "desc": "https://www.pokemon.com/us/pokedex/106"
+        ]
     },
     {
         "id": 107,
@@ -1864,9 +1652,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png",
-        "desc": "https://www.pokemon.com/us/pokedex/107"
+        ]
     },
     {
         "id": 108,
@@ -1881,9 +1667,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png",
-        "desc": "https://www.pokemon.com/us/pokedex/108"
+        ]
     },
     {
         "id": 109,
@@ -1898,9 +1682,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
-        "desc": "https://www.pokemon.com/us/pokedex/109"
+        ]
     },
     {
         "id": 110,
@@ -1915,9 +1697,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
-        "desc": "https://www.pokemon.com/us/pokedex/110"
+        ]
     },
     {
         "id": 111,
@@ -1933,9 +1713,7 @@
         "type": [
             "Ground",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
-        "desc": "https://www.pokemon.com/us/pokedex/111"
+        ]
     },
     {
         "id": 112,
@@ -1951,9 +1729,7 @@
         "type": [
             "Ground",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
-        "desc": "https://www.pokemon.com/us/pokedex/112"
+        ]
     },
     {
         "id": 113,
@@ -1968,9 +1744,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
-        "desc": "https://www.pokemon.com/us/pokedex/113"
+        ]
     },
     {
         "id": 114,
@@ -1985,9 +1759,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png",
-        "desc": "https://www.pokemon.com/us/pokedex/114"
+        ]
     },
     {
         "id": 115,
@@ -2002,9 +1774,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png",
-        "desc": "https://www.pokemon.com/us/pokedex/115"
+        ]
     },
     {
         "id": 116,
@@ -2019,9 +1789,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
-        "desc": "https://www.pokemon.com/us/pokedex/116"
+        ]
     },
     {
         "id": 117,
@@ -2036,9 +1804,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png",
-        "desc": "https://www.pokemon.com/us/pokedex/117"
+        ]
     },
     {
         "id": 118,
@@ -2053,9 +1819,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png",
-        "desc": "https://www.pokemon.com/us/pokedex/118"
+        ]
     },
     {
         "id": 119,
@@ -2070,9 +1834,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
-        "desc": "https://www.pokemon.com/us/pokedex/119"
+        ]
     },
     {
         "id": 120,
@@ -2087,9 +1849,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
-        "desc": "https://www.pokemon.com/us/pokedex/120"
+        ]
     },
     {
         "id": 121,
@@ -2105,9 +1865,7 @@
         "type": [
             "Water",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png",
-        "desc": "https://www.pokemon.com/us/pokedex/121"
+        ]
     },
     {
         "id": 122,
@@ -2123,9 +1881,7 @@
         "type": [
             "Psychic",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png",
-        "desc": "https://www.pokemon.com/us/pokedex/122"
+        ]
     },
     {
         "id": 123,
@@ -2141,9 +1897,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
-        "desc": "https://www.pokemon.com/us/pokedex/123"
+        ]
     },
     {
         "id": 124,
@@ -2159,9 +1913,7 @@
         "type": [
             "Ice",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
-        "desc": "https://www.pokemon.com/us/pokedex/124"
+        ]
     },
     {
         "id": 125,
@@ -2176,9 +1928,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
-        "desc": "https://www.pokemon.com/us/pokedex/125"
+        ]
     },
     {
         "id": 126,
@@ -2193,9 +1943,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png",
-        "desc": "https://www.pokemon.com/us/pokedex/126"
+        ]
     },
     {
         "id": 127,
@@ -2210,9 +1958,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
-        "desc": "https://www.pokemon.com/us/pokedex/127"
+        ]
     },
     {
         "id": 128,
@@ -2227,9 +1973,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
-        "desc": "https://www.pokemon.com/us/pokedex/128"
+        ]
     },
     {
         "id": 129,
@@ -2244,9 +1988,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
-        "desc": "https://www.pokemon.com/us/pokedex/129"
+        ]
     },
     {
         "id": 130,
@@ -2262,9 +2004,7 @@
         "type": [
             "Water",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
-        "desc": "https://www.pokemon.com/us/pokedex/130"
+        ]
     },
     {
         "id": 131,
@@ -2280,9 +2020,7 @@
         "type": [
             "Water",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
-        "desc": "https://www.pokemon.com/us/pokedex/131"
+        ]
     },
     {
         "id": 132,
@@ -2297,9 +2035,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
-        "desc": "https://www.pokemon.com/us/pokedex/132"
+        ]
     },
     {
         "id": 133,
@@ -2314,9 +2050,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
-        "desc": "https://www.pokemon.com/us/pokedex/133"
+        ]
     },
     {
         "id": 134,
@@ -2331,9 +2065,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
-        "desc": "https://www.pokemon.com/us/pokedex/134"
+        ]
     },
     {
         "id": 135,
@@ -2348,9 +2080,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
-        "desc": "https://www.pokemon.com/us/pokedex/135"
+        ]
     },
     {
         "id": 136,
@@ -2365,9 +2095,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
-        "desc": "https://www.pokemon.com/us/pokedex/136"
+        ]
     },
     {
         "id": 137,
@@ -2382,9 +2110,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
-        "desc": "https://www.pokemon.com/us/pokedex/137"
+        ]
     },
     {
         "id": 138,
@@ -2400,9 +2126,7 @@
         "type": [
             "Rock",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png",
-        "desc": "https://www.pokemon.com/us/pokedex/138"
+        ]
     },
     {
         "id": 139,
@@ -2418,9 +2142,7 @@
         "type": [
             "Rock",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png",
-        "desc": "https://www.pokemon.com/us/pokedex/139"
+        ]
     },
     {
         "id": 140,
@@ -2436,9 +2158,7 @@
         "type": [
             "Rock",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
-        "desc": "https://www.pokemon.com/us/pokedex/140"
+        ]
     },
     {
         "id": 141,
@@ -2454,9 +2174,7 @@
         "type": [
             "Rock",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png",
-        "desc": "https://www.pokemon.com/us/pokedex/141"
+        ]
     },
     {
         "id": 142,
@@ -2472,9 +2190,7 @@
         "type": [
             "Rock",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
-        "desc": "https://www.pokemon.com/us/pokedex/142"
+        ]
     },
     {
         "id": 143,
@@ -2489,9 +2205,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
-        "desc": "https://www.pokemon.com/us/pokedex/143"
+        ]
     },
     {
         "id": 144,
@@ -2507,9 +2221,7 @@
         "type": [
             "Ice",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
-        "desc": "https://www.pokemon.com/us/pokedex/144"
+        ]
     },
     {
         "id": 145,
@@ -2525,9 +2237,7 @@
         "type": [
             "Electric",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
-        "desc": "https://www.pokemon.com/us/pokedex/145"
+        ]
     },
     {
         "id": 146,
@@ -2543,9 +2253,7 @@
         "type": [
             "Fire",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
-        "desc": "https://www.pokemon.com/us/pokedex/146"
+        ]
     },
     {
         "id": 147,
@@ -2560,9 +2268,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
-        "desc": "https://www.pokemon.com/us/pokedex/147"
+        ]
     },
     {
         "id": 148,
@@ -2577,9 +2283,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
-        "desc": "https://www.pokemon.com/us/pokedex/148"
+        ]
     },
     {
         "id": 149,
@@ -2595,9 +2299,7 @@
         "type": [
             "Dragon",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
-        "desc": "https://www.pokemon.com/us/pokedex/149"
+        ]
     },
     {
         "id": 150,
@@ -2612,9 +2314,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
-        "desc": "https://www.pokemon.com/us/pokedex/150"
+        ]
     },
     {
         "id": 151,
@@ -2629,9 +2329,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
-        "desc": "https://www.pokemon.com/us/pokedex/151"
+        ]
     },
     {
         "id": 152,
@@ -2646,9 +2344,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png",
-        "desc": "https://www.pokemon.com/us/pokedex/152"
+        ]
     },
     {
         "id": 153,
@@ -2663,9 +2359,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/153.png",
-        "desc": "https://www.pokemon.com/us/pokedex/153"
+        ]
     },
     {
         "id": 154,
@@ -2680,9 +2374,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/154.png",
-        "desc": "https://www.pokemon.com/us/pokedex/154"
+        ]
     },
     {
         "id": 155,
@@ -2697,9 +2389,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png",
-        "desc": "https://www.pokemon.com/us/pokedex/155"
+        ]
     },
     {
         "id": 156,
@@ -2714,9 +2404,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/156.png",
-        "desc": "https://www.pokemon.com/us/pokedex/156"
+        ]
     },
     {
         "id": 157,
@@ -2731,9 +2419,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/157.png",
-        "desc": "https://www.pokemon.com/us/pokedex/157"
+        ]
     },
     {
         "id": 158,
@@ -2748,9 +2434,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png",
-        "desc": "https://www.pokemon.com/us/pokedex/158"
+        ]
     },
     {
         "id": 159,
@@ -2765,9 +2449,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/159.png",
-        "desc": "https://www.pokemon.com/us/pokedex/159"
+        ]
     },
     {
         "id": 160,
@@ -2782,9 +2464,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/160.png",
-        "desc": "https://www.pokemon.com/us/pokedex/160"
+        ]
     },
     {
         "id": 161,
@@ -2799,9 +2479,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/161.png",
-        "desc": "https://www.pokemon.com/us/pokedex/161"
+        ]
     },
     {
         "id": 162,
@@ -2816,9 +2494,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/162.png",
-        "desc": "https://www.pokemon.com/us/pokedex/162"
+        ]
     },
     {
         "id": 163,
@@ -2834,9 +2510,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/163.png",
-        "desc": "https://www.pokemon.com/us/pokedex/163"
+        ]
     },
     {
         "id": 164,
@@ -2852,9 +2526,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/164.png",
-        "desc": "https://www.pokemon.com/us/pokedex/164"
+        ]
     },
     {
         "id": 165,
@@ -2870,9 +2542,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/165.png",
-        "desc": "https://www.pokemon.com/us/pokedex/165"
+        ]
     },
     {
         "id": 166,
@@ -2888,9 +2558,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/166.png",
-        "desc": "https://www.pokemon.com/us/pokedex/166"
+        ]
     },
     {
         "id": 167,
@@ -2906,9 +2574,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/167.png",
-        "desc": "https://www.pokemon.com/us/pokedex/167"
+        ]
     },
     {
         "id": 168,
@@ -2924,9 +2590,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/168.png",
-        "desc": "https://www.pokemon.com/us/pokedex/168"
+        ]
     },
     {
         "id": 169,
@@ -2942,9 +2606,7 @@
         "type": [
             "Poison",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/169.png",
-        "desc": "https://www.pokemon.com/us/pokedex/169"
+        ]
     },
     {
         "id": 170,
@@ -2960,9 +2622,7 @@
         "type": [
             "Water",
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/170.png",
-        "desc": "https://www.pokemon.com/us/pokedex/170"
+        ]
     },
     {
         "id": 171,
@@ -2978,9 +2638,7 @@
         "type": [
             "Water",
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/171.png",
-        "desc": "https://www.pokemon.com/us/pokedex/171"
+        ]
     },
     {
         "id": 172,
@@ -2995,9 +2653,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/172.png",
-        "desc": "https://www.pokemon.com/us/pokedex/172"
+        ]
     },
     {
         "id": 173,
@@ -3012,9 +2668,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/173.png",
-        "desc": "https://www.pokemon.com/us/pokedex/173"
+        ]
     },
     {
         "id": 174,
@@ -3030,9 +2684,7 @@
         "type": [
             "Normal",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/174.png",
-        "desc": "https://www.pokemon.com/us/pokedex/174"
+        ]
     },
     {
         "id": 175,
@@ -3047,9 +2699,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/175.png",
-        "desc": "https://www.pokemon.com/us/pokedex/175"
+        ]
     },
     {
         "id": 176,
@@ -3065,9 +2715,7 @@
         "type": [
             "Fairy",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/176.png",
-        "desc": "https://www.pokemon.com/us/pokedex/176"
+        ]
     },
     {
         "id": 177,
@@ -3083,9 +2731,7 @@
         "type": [
             "Psychic",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/177.png",
-        "desc": "https://www.pokemon.com/us/pokedex/177"
+        ]
     },
     {
         "id": 178,
@@ -3101,9 +2747,7 @@
         "type": [
             "Psychic",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/178.png",
-        "desc": "https://www.pokemon.com/us/pokedex/178"
+        ]
     },
     {
         "id": 179,
@@ -3118,9 +2762,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/179.png",
-        "desc": "https://www.pokemon.com/us/pokedex/179"
+        ]
     },
     {
         "id": 180,
@@ -3135,9 +2777,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/180.png",
-        "desc": "https://www.pokemon.com/us/pokedex/180"
+        ]
     },
     {
         "id": 181,
@@ -3152,9 +2792,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/181.png",
-        "desc": "https://www.pokemon.com/us/pokedex/181"
+        ]
     },
     {
         "id": 182,
@@ -3169,9 +2807,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/182.png",
-        "desc": "https://www.pokemon.com/us/pokedex/182"
+        ]
     },
     {
         "id": 183,
@@ -3187,9 +2823,7 @@
         "type": [
             "Water",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/183.png",
-        "desc": "https://www.pokemon.com/us/pokedex/183"
+        ]
     },
     {
         "id": 184,
@@ -3205,9 +2839,7 @@
         "type": [
             "Water",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/184.png",
-        "desc": "https://www.pokemon.com/us/pokedex/184"
+        ]
     },
     {
         "id": 185,
@@ -3222,9 +2854,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/185.png",
-        "desc": "https://www.pokemon.com/us/pokedex/185"
+        ]
     },
     {
         "id": 186,
@@ -3239,9 +2869,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/186.png",
-        "desc": "https://www.pokemon.com/us/pokedex/186"
+        ]
     },
     {
         "id": 187,
@@ -3257,9 +2885,7 @@
         "type": [
             "Grass",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/187.png",
-        "desc": "https://www.pokemon.com/us/pokedex/187"
+        ]
     },
     {
         "id": 188,
@@ -3275,9 +2901,7 @@
         "type": [
             "Grass",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/188.png",
-        "desc": "https://www.pokemon.com/us/pokedex/188"
+        ]
     },
     {
         "id": 189,
@@ -3293,9 +2917,7 @@
         "type": [
             "Grass",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/189.png",
-        "desc": "https://www.pokemon.com/us/pokedex/189"
+        ]
     },
     {
         "id": 190,
@@ -3310,9 +2932,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/190.png",
-        "desc": "https://www.pokemon.com/us/pokedex/190"
+        ]
     },
     {
         "id": 191,
@@ -3327,9 +2947,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/191.png",
-        "desc": "https://www.pokemon.com/us/pokedex/191"
+        ]
     },
     {
         "id": 192,
@@ -3344,9 +2962,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/192.png",
-        "desc": "https://www.pokemon.com/us/pokedex/192"
+        ]
     },
     {
         "id": 193,
@@ -3362,9 +2978,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/193.png",
-        "desc": "https://www.pokemon.com/us/pokedex/193"
+        ]
     },
     {
         "id": 194,
@@ -3380,9 +2994,7 @@
         "type": [
             "Water",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/194.png",
-        "desc": "https://www.pokemon.com/us/pokedex/194"
+        ]
     },
     {
         "id": 195,
@@ -3398,9 +3010,7 @@
         "type": [
             "Water",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/195.png",
-        "desc": "https://www.pokemon.com/us/pokedex/195"
+        ]
     },
     {
         "id": 196,
@@ -3415,9 +3025,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/196.png",
-        "desc": "https://www.pokemon.com/us/pokedex/196"
+        ]
     },
     {
         "id": 197,
@@ -3432,9 +3040,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png",
-        "desc": "https://www.pokemon.com/us/pokedex/197"
+        ]
     },
     {
         "id": 198,
@@ -3450,9 +3056,7 @@
         "type": [
             "Dark",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/198.png",
-        "desc": "https://www.pokemon.com/us/pokedex/198"
+        ]
     },
     {
         "id": 199,
@@ -3468,9 +3072,7 @@
         "type": [
             "Water",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/199.png",
-        "desc": "https://www.pokemon.com/us/pokedex/199"
+        ]
     },
     {
         "id": 200,
@@ -3485,9 +3087,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/200.png",
-        "desc": "https://www.pokemon.com/us/pokedex/200"
+        ]
     },
     {
         "id": 201,
@@ -3502,9 +3102,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/201.png",
-        "desc": "https://www.pokemon.com/us/pokedex/201"
+        ]
     },
     {
         "id": 202,
@@ -3519,9 +3117,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/202.png",
-        "desc": "https://www.pokemon.com/us/pokedex/202"
+        ]
     },
     {
         "id": 203,
@@ -3537,9 +3133,7 @@
         "type": [
             "Normal",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/203.png",
-        "desc": "https://www.pokemon.com/us/pokedex/203"
+        ]
     },
     {
         "id": 204,
@@ -3554,9 +3148,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/204.png",
-        "desc": "https://www.pokemon.com/us/pokedex/204"
+        ]
     },
     {
         "id": 205,
@@ -3572,9 +3164,7 @@
         "type": [
             "Bug",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/205.png",
-        "desc": "https://www.pokemon.com/us/pokedex/205"
+        ]
     },
     {
         "id": 206,
@@ -3589,9 +3179,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/206.png",
-        "desc": "https://www.pokemon.com/us/pokedex/206"
+        ]
     },
     {
         "id": 207,
@@ -3607,9 +3195,7 @@
         "type": [
             "Ground",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/207.png",
-        "desc": "https://www.pokemon.com/us/pokedex/207"
+        ]
     },
     {
         "id": 208,
@@ -3625,9 +3211,7 @@
         "type": [
             "Steel",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png",
-        "desc": "https://www.pokemon.com/us/pokedex/208"
+        ]
     },
     {
         "id": 209,
@@ -3642,9 +3226,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/209.png",
-        "desc": "https://www.pokemon.com/us/pokedex/209"
+        ]
     },
     {
         "id": 210,
@@ -3659,9 +3241,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/210.png",
-        "desc": "https://www.pokemon.com/us/pokedex/210"
+        ]
     },
     {
         "id": 211,
@@ -3677,9 +3257,7 @@
         "type": [
             "Water",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/211.png",
-        "desc": "https://www.pokemon.com/us/pokedex/211"
+        ]
     },
     {
         "id": 212,
@@ -3695,9 +3273,7 @@
         "type": [
             "Bug",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
-        "desc": "https://www.pokemon.com/us/pokedex/212"
+        ]
     },
     {
         "id": 213,
@@ -3713,9 +3289,7 @@
         "type": [
             "Bug",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/213.png",
-        "desc": "https://www.pokemon.com/us/pokedex/213"
+        ]
     },
     {
         "id": 214,
@@ -3731,9 +3305,7 @@
         "type": [
             "Bug",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/214.png",
-        "desc": "https://www.pokemon.com/us/pokedex/214"
+        ]
     },
     {
         "id": 215,
@@ -3749,9 +3321,7 @@
         "type": [
             "Dark",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/215.png",
-        "desc": "https://www.pokemon.com/us/pokedex/215"
+        ]
     },
     {
         "id": 216,
@@ -3766,9 +3336,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/216.png",
-        "desc": "https://www.pokemon.com/us/pokedex/216"
+        ]
     },
     {
         "id": 217,
@@ -3783,9 +3351,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/217.png",
-        "desc": "https://www.pokemon.com/us/pokedex/217"
+        ]
     },
     {
         "id": 218,
@@ -3800,9 +3366,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/218.png",
-        "desc": "https://www.pokemon.com/us/pokedex/218"
+        ]
     },
     {
         "id": 219,
@@ -3818,9 +3382,7 @@
         "type": [
             "Fire",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/219.png",
-        "desc": "https://www.pokemon.com/us/pokedex/219"
+        ]
     },
     {
         "id": 220,
@@ -3836,9 +3398,7 @@
         "type": [
             "Ice",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/220.png",
-        "desc": "https://www.pokemon.com/us/pokedex/220"
+        ]
     },
     {
         "id": 221,
@@ -3854,9 +3414,7 @@
         "type": [
             "Ice",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/221.png",
-        "desc": "https://www.pokemon.com/us/pokedex/221"
+        ]
     },
     {
         "id": 222,
@@ -3872,9 +3430,7 @@
         "type": [
             "Water",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/222.png",
-        "desc": "https://www.pokemon.com/us/pokedex/222"
+        ]
     },
     {
         "id": 223,
@@ -3889,9 +3445,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/223.png",
-        "desc": "https://www.pokemon.com/us/pokedex/223"
+        ]
     },
     {
         "id": 224,
@@ -3906,9 +3460,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/224.png",
-        "desc": "https://www.pokemon.com/us/pokedex/224"
+        ]
     },
     {
         "id": 225,
@@ -3924,9 +3476,7 @@
         "type": [
             "Ice",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/225.png",
-        "desc": "https://www.pokemon.com/us/pokedex/225"
+        ]
     },
     {
         "id": 226,
@@ -3942,9 +3492,7 @@
         "type": [
             "Water",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/226.png",
-        "desc": "https://www.pokemon.com/us/pokedex/226"
+        ]
     },
     {
         "id": 227,
@@ -3960,9 +3508,7 @@
         "type": [
             "Steel",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png",
-        "desc": "https://www.pokemon.com/us/pokedex/227"
+        ]
     },
     {
         "id": 228,
@@ -3978,9 +3524,7 @@
         "type": [
             "Dark",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/228.png",
-        "desc": "https://www.pokemon.com/us/pokedex/228"
+        ]
     },
     {
         "id": 229,
@@ -3996,9 +3540,7 @@
         "type": [
             "Dark",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/229.png",
-        "desc": "https://www.pokemon.com/us/pokedex/229"
+        ]
     },
     {
         "id": 230,
@@ -4014,9 +3556,7 @@
         "type": [
             "Water",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/230.png",
-        "desc": "https://www.pokemon.com/us/pokedex/230"
+        ]
     },
     {
         "id": 231,
@@ -4031,9 +3571,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/231.png",
-        "desc": "https://www.pokemon.com/us/pokedex/231"
+        ]
     },
     {
         "id": 232,
@@ -4048,9 +3586,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/232.png",
-        "desc": "https://www.pokemon.com/us/pokedex/232"
+        ]
     },
     {
         "id": 233,
@@ -4065,9 +3601,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/233.png",
-        "desc": "https://www.pokemon.com/us/pokedex/233"
+        ]
     },
     {
         "id": 234,
@@ -4082,9 +3616,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/234.png",
-        "desc": "https://www.pokemon.com/us/pokedex/234"
+        ]
     },
     {
         "id": 235,
@@ -4099,9 +3631,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/235.png",
-        "desc": "https://www.pokemon.com/us/pokedex/235"
+        ]
     },
     {
         "id": 236,
@@ -4116,9 +3646,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/236.png",
-        "desc": "https://www.pokemon.com/us/pokedex/236"
+        ]
     },
     {
         "id": 237,
@@ -4133,9 +3661,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/237.png",
-        "desc": "https://www.pokemon.com/us/pokedex/237"
+        ]
     },
     {
         "id": 238,
@@ -4151,9 +3677,7 @@
         "type": [
             "Ice",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/238.png",
-        "desc": "https://www.pokemon.com/us/pokedex/238"
+        ]
     },
     {
         "id": 239,
@@ -4168,9 +3692,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/239.png",
-        "desc": "https://www.pokemon.com/us/pokedex/239"
+        ]
     },
     {
         "id": 240,
@@ -4185,9 +3707,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/240.png",
-        "desc": "https://www.pokemon.com/us/pokedex/240"
+        ]
     },
     {
         "id": 241,
@@ -4202,9 +3722,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/241.png",
-        "desc": "https://www.pokemon.com/us/pokedex/241"
+        ]
     },
     {
         "id": 242,
@@ -4219,9 +3737,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/242.png",
-        "desc": "https://www.pokemon.com/us/pokedex/242"
+        ]
     },
     {
         "id": 243,
@@ -4236,9 +3752,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/243.png",
-        "desc": "https://www.pokemon.com/us/pokedex/243"
+        ]
     },
     {
         "id": 244,
@@ -4253,9 +3767,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/244.png",
-        "desc": "https://www.pokemon.com/us/pokedex/244"
+        ]
     },
     {
         "id": 245,
@@ -4270,9 +3782,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/245.png",
-        "desc": "https://www.pokemon.com/us/pokedex/245"
+        ]
     },
     {
         "id": 246,
@@ -4288,9 +3798,7 @@
         "type": [
             "Rock",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/246.png",
-        "desc": "https://www.pokemon.com/us/pokedex/246"
+        ]
     },
     {
         "id": 247,
@@ -4306,9 +3814,7 @@
         "type": [
             "Rock",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/247.png",
-        "desc": "https://www.pokemon.com/us/pokedex/247"
+        ]
     },
     {
         "id": 248,
@@ -4324,9 +3830,7 @@
         "type": [
             "Rock",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png",
-        "desc": "https://www.pokemon.com/us/pokedex/248"
+        ]
     },
     {
         "id": 249,
@@ -4342,9 +3846,7 @@
         "type": [
             "Psychic",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/249.png",
-        "desc": "https://www.pokemon.com/us/pokedex/249"
+        ]
     },
     {
         "id": 250,
@@ -4360,9 +3862,7 @@
         "type": [
             "Fire",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/250.png",
-        "desc": "https://www.pokemon.com/us/pokedex/250"
+        ]
     },
     {
         "id": 251,
@@ -4378,9 +3878,7 @@
         "type": [
             "Psychic",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/251.png",
-        "desc": "https://www.pokemon.com/us/pokedex/251"
+        ]
     },
     {
         "id": 252,
@@ -4395,9 +3893,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/252.png",
-        "desc": "https://www.pokemon.com/us/pokedex/252"
+        ]
     },
     {
         "id": 253,
@@ -4412,9 +3908,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/253.png",
-        "desc": "https://www.pokemon.com/us/pokedex/253"
+        ]
     },
     {
         "id": 254,
@@ -4429,9 +3923,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/254.png",
-        "desc": "https://www.pokemon.com/us/pokedex/254"
+        ]
     },
     {
         "id": 255,
@@ -4446,9 +3938,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/255.png",
-        "desc": "https://www.pokemon.com/us/pokedex/255"
+        ]
     },
     {
         "id": 256,
@@ -4464,9 +3954,7 @@
         "type": [
             "Fire",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/256.png",
-        "desc": "https://www.pokemon.com/us/pokedex/256"
+        ]
     },
     {
         "id": 257,
@@ -4482,9 +3970,7 @@
         "type": [
             "Fire",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png",
-        "desc": "https://www.pokemon.com/us/pokedex/257"
+        ]
     },
     {
         "id": 258,
@@ -4499,9 +3985,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/258.png",
-        "desc": "https://www.pokemon.com/us/pokedex/258"
+        ]
     },
     {
         "id": 259,
@@ -4517,9 +4001,7 @@
         "type": [
             "Water",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/259.png",
-        "desc": "https://www.pokemon.com/us/pokedex/259"
+        ]
     },
     {
         "id": 260,
@@ -4535,9 +4017,7 @@
         "type": [
             "Water",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/260.png",
-        "desc": "https://www.pokemon.com/us/pokedex/260"
+        ]
     },
     {
         "id": 261,
@@ -4552,9 +4032,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/261.png",
-        "desc": "https://www.pokemon.com/us/pokedex/261"
+        ]
     },
     {
         "id": 262,
@@ -4569,9 +4047,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/262.png",
-        "desc": "https://www.pokemon.com/us/pokedex/262"
+        ]
     },
     {
         "id": 263,
@@ -4586,9 +4062,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/263.png",
-        "desc": "https://www.pokemon.com/us/pokedex/263"
+        ]
     },
     {
         "id": 264,
@@ -4603,9 +4077,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/264.png",
-        "desc": "https://www.pokemon.com/us/pokedex/264"
+        ]
     },
     {
         "id": 265,
@@ -4620,9 +4092,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/265.png",
-        "desc": "https://www.pokemon.com/us/pokedex/265"
+        ]
     },
     {
         "id": 266,
@@ -4637,9 +4107,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/266.png",
-        "desc": "https://www.pokemon.com/us/pokedex/266"
+        ]
     },
     {
         "id": 267,
@@ -4655,9 +4123,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png",
-        "desc": "https://www.pokemon.com/us/pokedex/267"
+        ]
     },
     {
         "id": 268,
@@ -4672,9 +4138,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/268.png",
-        "desc": "https://www.pokemon.com/us/pokedex/268"
+        ]
     },
     {
         "id": 269,
@@ -4690,9 +4154,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/269.png",
-        "desc": "https://www.pokemon.com/us/pokedex/269"
+        ]
     },
     {
         "id": 270,
@@ -4708,9 +4170,7 @@
         "type": [
             "Water",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/270.png",
-        "desc": "https://www.pokemon.com/us/pokedex/270"
+        ]
     },
     {
         "id": 271,
@@ -4726,9 +4186,7 @@
         "type": [
             "Water",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/271.png",
-        "desc": "https://www.pokemon.com/us/pokedex/271"
+        ]
     },
     {
         "id": 272,
@@ -4744,9 +4202,7 @@
         "type": [
             "Water",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/272.png",
-        "desc": "https://www.pokemon.com/us/pokedex/272"
+        ]
     },
     {
         "id": 273,
@@ -4761,9 +4217,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/273.png",
-        "desc": "https://www.pokemon.com/us/pokedex/273"
+        ]
     },
     {
         "id": 274,
@@ -4779,9 +4233,7 @@
         "type": [
             "Grass",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/274.png",
-        "desc": "https://www.pokemon.com/us/pokedex/274"
+        ]
     },
     {
         "id": 275,
@@ -4797,9 +4249,7 @@
         "type": [
             "Grass",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/275.png",
-        "desc": "https://www.pokemon.com/us/pokedex/275"
+        ]
     },
     {
         "id": 276,
@@ -4815,9 +4265,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/276.png",
-        "desc": "https://www.pokemon.com/us/pokedex/276"
+        ]
     },
     {
         "id": 277,
@@ -4833,9 +4281,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/277.png",
-        "desc": "https://www.pokemon.com/us/pokedex/277"
+        ]
     },
     {
         "id": 278,
@@ -4851,9 +4297,7 @@
         "type": [
             "Water",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/278.png",
-        "desc": "https://www.pokemon.com/us/pokedex/278"
+        ]
     },
     {
         "id": 279,
@@ -4869,9 +4313,7 @@
         "type": [
             "Water",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/279.png",
-        "desc": "https://www.pokemon.com/us/pokedex/279"
+        ]
     },
     {
         "id": 280,
@@ -4887,9 +4329,7 @@
         "type": [
             "Psychic",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/280.png",
-        "desc": "https://www.pokemon.com/us/pokedex/280"
+        ]
     },
     {
         "id": 281,
@@ -4905,9 +4345,7 @@
         "type": [
             "Psychic",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/281.png",
-        "desc": "https://www.pokemon.com/us/pokedex/281"
+        ]
     },
     {
         "id": 282,
@@ -4923,9 +4361,7 @@
         "type": [
             "Psychic",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/282.png",
-        "desc": "https://www.pokemon.com/us/pokedex/282"
+        ]
     },
     {
         "id": 283,
@@ -4941,9 +4377,7 @@
         "type": [
             "Bug",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/283.png",
-        "desc": "https://www.pokemon.com/us/pokedex/283"
+        ]
     },
     {
         "id": 284,
@@ -4959,9 +4393,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/284.png",
-        "desc": "https://www.pokemon.com/us/pokedex/284"
+        ]
     },
     {
         "id": 285,
@@ -4976,9 +4408,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/285.png",
-        "desc": "https://www.pokemon.com/us/pokedex/285"
+        ]
     },
     {
         "id": 286,
@@ -4994,9 +4424,7 @@
         "type": [
             "Grass",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/286.png",
-        "desc": "https://www.pokemon.com/us/pokedex/286"
+        ]
     },
     {
         "id": 287,
@@ -5011,9 +4439,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/287.png",
-        "desc": "https://www.pokemon.com/us/pokedex/287"
+        ]
     },
     {
         "id": 288,
@@ -5028,9 +4454,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/288.png",
-        "desc": "https://www.pokemon.com/us/pokedex/288"
+        ]
     },
     {
         "id": 289,
@@ -5045,9 +4469,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/289.png",
-        "desc": "https://www.pokemon.com/us/pokedex/289"
+        ]
     },
     {
         "id": 290,
@@ -5063,9 +4485,7 @@
         "type": [
             "Bug",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/290.png",
-        "desc": "https://www.pokemon.com/us/pokedex/290"
+        ]
     },
     {
         "id": 291,
@@ -5081,9 +4501,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/291.png",
-        "desc": "https://www.pokemon.com/us/pokedex/291"
+        ]
     },
     {
         "id": 292,
@@ -5099,9 +4517,7 @@
         "type": [
             "Bug",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/292.png",
-        "desc": "https://www.pokemon.com/us/pokedex/292"
+        ]
     },
     {
         "id": 293,
@@ -5116,9 +4532,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/293.png",
-        "desc": "https://www.pokemon.com/us/pokedex/293"
+        ]
     },
     {
         "id": 294,
@@ -5133,9 +4547,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/294.png",
-        "desc": "https://www.pokemon.com/us/pokedex/294"
+        ]
     },
     {
         "id": 295,
@@ -5150,9 +4562,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/295.png",
-        "desc": "https://www.pokemon.com/us/pokedex/295"
+        ]
     },
     {
         "id": 296,
@@ -5167,9 +4577,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/296.png",
-        "desc": "https://www.pokemon.com/us/pokedex/296"
+        ]
     },
     {
         "id": 297,
@@ -5184,9 +4592,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/297.png",
-        "desc": "https://www.pokemon.com/us/pokedex/297"
+        ]
     },
     {
         "id": 298,
@@ -5202,9 +4608,7 @@
         "type": [
             "Normal",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/298.png",
-        "desc": "https://www.pokemon.com/us/pokedex/298"
+        ]
     },
     {
         "id": 299,
@@ -5219,9 +4623,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/299.png",
-        "desc": "https://www.pokemon.com/us/pokedex/299"
+        ]
     },
     {
         "id": 300,
@@ -5236,9 +4638,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/300.png",
-        "desc": "https://www.pokemon.com/us/pokedex/300"
+        ]
     },
     {
         "id": 301,
@@ -5253,9 +4653,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/301.png",
-        "desc": "https://www.pokemon.com/us/pokedex/301"
+        ]
     },
     {
         "id": 302,
@@ -5271,9 +4669,7 @@
         "type": [
             "Dark",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/302.png",
-        "desc": "https://www.pokemon.com/us/pokedex/302"
+        ]
     },
     {
         "id": 303,
@@ -5289,9 +4685,7 @@
         "type": [
             "Steel",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/303.png",
-        "desc": "https://www.pokemon.com/us/pokedex/303"
+        ]
     },
     {
         "id": 304,
@@ -5307,9 +4701,7 @@
         "type": [
             "Steel",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png",
-        "desc": "https://www.pokemon.com/us/pokedex/304"
+        ]
     },
     {
         "id": 305,
@@ -5325,9 +4717,7 @@
         "type": [
             "Steel",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/305.png",
-        "desc": "https://www.pokemon.com/us/pokedex/305"
+        ]
     },
     {
         "id": 306,
@@ -5343,9 +4733,7 @@
         "type": [
             "Steel",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/306.png",
-        "desc": "https://www.pokemon.com/us/pokedex/306"
+        ]
     },
     {
         "id": 307,
@@ -5361,9 +4749,7 @@
         "type": [
             "Fighting",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/307.png",
-        "desc": "https://www.pokemon.com/us/pokedex/307"
+        ]
     },
     {
         "id": 308,
@@ -5379,9 +4765,7 @@
         "type": [
             "Fighting",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/308.png",
-        "desc": "https://www.pokemon.com/us/pokedex/308"
+        ]
     },
     {
         "id": 309,
@@ -5396,9 +4780,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/309.png",
-        "desc": "https://www.pokemon.com/us/pokedex/309"
+        ]
     },
     {
         "id": 310,
@@ -5413,9 +4795,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/310.png",
-        "desc": "https://www.pokemon.com/us/pokedex/310"
+        ]
     },
     {
         "id": 311,
@@ -5430,9 +4810,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/311.png",
-        "desc": "https://www.pokemon.com/us/pokedex/311"
+        ]
     },
     {
         "id": 312,
@@ -5447,9 +4825,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/312.png",
-        "desc": "https://www.pokemon.com/us/pokedex/312"
+        ]
     },
     {
         "id": 313,
@@ -5464,9 +4840,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/313.png",
-        "desc": "https://www.pokemon.com/us/pokedex/313"
+        ]
     },
     {
         "id": 314,
@@ -5481,9 +4855,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/314.png",
-        "desc": "https://www.pokemon.com/us/pokedex/314"
+        ]
     },
     {
         "id": 315,
@@ -5499,9 +4871,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/315.png",
-        "desc": "https://www.pokemon.com/us/pokedex/315"
+        ]
     },
     {
         "id": 316,
@@ -5516,9 +4886,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/316.png",
-        "desc": "https://www.pokemon.com/us/pokedex/316"
+        ]
     },
     {
         "id": 317,
@@ -5533,9 +4901,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/317.png",
-        "desc": "https://www.pokemon.com/us/pokedex/317"
+        ]
     },
     {
         "id": 318,
@@ -5551,9 +4917,7 @@
         "type": [
             "Water",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/318.png",
-        "desc": "https://www.pokemon.com/us/pokedex/318"
+        ]
     },
     {
         "id": 319,
@@ -5569,9 +4933,7 @@
         "type": [
             "Water",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/319.png",
-        "desc": "https://www.pokemon.com/us/pokedex/319"
+        ]
     },
     {
         "id": 320,
@@ -5586,9 +4948,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/320.png",
-        "desc": "https://www.pokemon.com/us/pokedex/320"
+        ]
     },
     {
         "id": 321,
@@ -5603,9 +4963,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/321.png",
-        "desc": "https://www.pokemon.com/us/pokedex/321"
+        ]
     },
     {
         "id": 322,
@@ -5621,9 +4979,7 @@
         "type": [
             "Fire",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/322.png",
-        "desc": "https://www.pokemon.com/us/pokedex/322"
+        ]
     },
     {
         "id": 323,
@@ -5639,9 +4995,7 @@
         "type": [
             "Fire",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/323.png",
-        "desc": "https://www.pokemon.com/us/pokedex/323"
+        ]
     },
     {
         "id": 324,
@@ -5656,9 +5010,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/324.png",
-        "desc": "https://www.pokemon.com/us/pokedex/324"
+        ]
     },
     {
         "id": 325,
@@ -5673,9 +5025,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/325.png",
-        "desc": "https://www.pokemon.com/us/pokedex/325"
+        ]
     },
     {
         "id": 326,
@@ -5690,9 +5040,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/326.png",
-        "desc": "https://www.pokemon.com/us/pokedex/326"
+        ]
     },
     {
         "id": 327,
@@ -5707,9 +5055,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/327.png",
-        "desc": "https://www.pokemon.com/us/pokedex/327"
+        ]
     },
     {
         "id": 328,
@@ -5724,9 +5070,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/328.png",
-        "desc": "https://www.pokemon.com/us/pokedex/328"
+        ]
     },
     {
         "id": 329,
@@ -5742,9 +5086,7 @@
         "type": [
             "Ground",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/329.png",
-        "desc": "https://www.pokemon.com/us/pokedex/329"
+        ]
     },
     {
         "id": 330,
@@ -5760,9 +5102,7 @@
         "type": [
             "Ground",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/330.png",
-        "desc": "https://www.pokemon.com/us/pokedex/330"
+        ]
     },
     {
         "id": 331,
@@ -5777,9 +5117,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/331.png",
-        "desc": "https://www.pokemon.com/us/pokedex/331"
+        ]
     },
     {
         "id": 332,
@@ -5795,9 +5133,7 @@
         "type": [
             "Grass",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/332.png",
-        "desc": "https://www.pokemon.com/us/pokedex/332"
+        ]
     },
     {
         "id": 333,
@@ -5813,9 +5149,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/333.png",
-        "desc": "https://www.pokemon.com/us/pokedex/333"
+        ]
     },
     {
         "id": 334,
@@ -5831,9 +5165,7 @@
         "type": [
             "Dragon",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png",
-        "desc": "https://www.pokemon.com/us/pokedex/334"
+        ]
     },
     {
         "id": 335,
@@ -5848,9 +5180,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/335.png",
-        "desc": "https://www.pokemon.com/us/pokedex/335"
+        ]
     },
     {
         "id": 336,
@@ -5865,9 +5195,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/336.png",
-        "desc": "https://www.pokemon.com/us/pokedex/336"
+        ]
     },
     {
         "id": 337,
@@ -5883,9 +5211,7 @@
         "type": [
             "Rock",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/337.png",
-        "desc": "https://www.pokemon.com/us/pokedex/337"
+        ]
     },
     {
         "id": 338,
@@ -5901,9 +5227,7 @@
         "type": [
             "Rock",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/338.png",
-        "desc": "https://www.pokemon.com/us/pokedex/338"
+        ]
     },
     {
         "id": 339,
@@ -5919,9 +5243,7 @@
         "type": [
             "Water",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/339.png",
-        "desc": "https://www.pokemon.com/us/pokedex/339"
+        ]
     },
     {
         "id": 340,
@@ -5937,9 +5259,7 @@
         "type": [
             "Water",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/340.png",
-        "desc": "https://www.pokemon.com/us/pokedex/340"
+        ]
     },
     {
         "id": 341,
@@ -5954,9 +5274,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/341.png",
-        "desc": "https://www.pokemon.com/us/pokedex/341"
+        ]
     },
     {
         "id": 342,
@@ -5972,9 +5290,7 @@
         "type": [
             "Water",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/342.png",
-        "desc": "https://www.pokemon.com/us/pokedex/342"
+        ]
     },
     {
         "id": 343,
@@ -5990,9 +5306,7 @@
         "type": [
             "Ground",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/343.png",
-        "desc": "https://www.pokemon.com/us/pokedex/343"
+        ]
     },
     {
         "id": 344,
@@ -6008,9 +5322,7 @@
         "type": [
             "Ground",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/344.png",
-        "desc": "https://www.pokemon.com/us/pokedex/344"
+        ]
     },
     {
         "id": 345,
@@ -6026,9 +5338,7 @@
         "type": [
             "Rock",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/345.png",
-        "desc": "https://www.pokemon.com/us/pokedex/345"
+        ]
     },
     {
         "id": 346,
@@ -6044,9 +5354,7 @@
         "type": [
             "Rock",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/346.png",
-        "desc": "https://www.pokemon.com/us/pokedex/346"
+        ]
     },
     {
         "id": 347,
@@ -6062,9 +5370,7 @@
         "type": [
             "Rock",
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/347.png",
-        "desc": "https://www.pokemon.com/us/pokedex/347"
+        ]
     },
     {
         "id": 348,
@@ -6080,9 +5386,7 @@
         "type": [
             "Rock",
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/348.png",
-        "desc": "https://www.pokemon.com/us/pokedex/348"
+        ]
     },
     {
         "id": 349,
@@ -6097,9 +5401,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/349.png",
-        "desc": "https://www.pokemon.com/us/pokedex/349"
+        ]
     },
     {
         "id": 350,
@@ -6114,9 +5416,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/350.png",
-        "desc": "https://www.pokemon.com/us/pokedex/350"
+        ]
     },
     {
         "id": 351,
@@ -6131,9 +5431,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/351.png",
-        "desc": "https://www.pokemon.com/us/pokedex/351"
+        ]
     },
     {
         "id": 352,
@@ -6148,9 +5446,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/352.png",
-        "desc": "https://www.pokemon.com/us/pokedex/352"
+        ]
     },
     {
         "id": 353,
@@ -6165,9 +5461,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/353.png",
-        "desc": "https://www.pokemon.com/us/pokedex/353"
+        ]
     },
     {
         "id": 354,
@@ -6182,9 +5476,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/354.png",
-        "desc": "https://www.pokemon.com/us/pokedex/354"
+        ]
     },
     {
         "id": 355,
@@ -6199,9 +5491,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/355.png",
-        "desc": "https://www.pokemon.com/us/pokedex/355"
+        ]
     },
     {
         "id": 356,
@@ -6216,9 +5506,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/356.png",
-        "desc": "https://www.pokemon.com/us/pokedex/356"
+        ]
     },
     {
         "id": 357,
@@ -6234,9 +5522,7 @@
         "type": [
             "Grass",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/357.png",
-        "desc": "https://www.pokemon.com/us/pokedex/357"
+        ]
     },
     {
         "id": 358,
@@ -6251,9 +5537,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/358.png",
-        "desc": "https://www.pokemon.com/us/pokedex/358"
+        ]
     },
     {
         "id": 359,
@@ -6268,9 +5552,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/359.png",
-        "desc": "https://www.pokemon.com/us/pokedex/359"
+        ]
     },
     {
         "id": 360,
@@ -6285,9 +5567,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/360.png",
-        "desc": "https://www.pokemon.com/us/pokedex/360"
+        ]
     },
     {
         "id": 361,
@@ -6302,9 +5582,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/361.png",
-        "desc": "https://www.pokemon.com/us/pokedex/361"
+        ]
     },
     {
         "id": 362,
@@ -6319,9 +5597,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/362.png",
-        "desc": "https://www.pokemon.com/us/pokedex/362"
+        ]
     },
     {
         "id": 363,
@@ -6337,9 +5613,7 @@
         "type": [
             "Ice",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/363.png",
-        "desc": "https://www.pokemon.com/us/pokedex/363"
+        ]
     },
     {
         "id": 364,
@@ -6355,9 +5629,7 @@
         "type": [
             "Ice",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/364.png",
-        "desc": "https://www.pokemon.com/us/pokedex/364"
+        ]
     },
     {
         "id": 365,
@@ -6373,9 +5645,7 @@
         "type": [
             "Ice",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/365.png",
-        "desc": "https://www.pokemon.com/us/pokedex/365"
+        ]
     },
     {
         "id": 366,
@@ -6390,9 +5660,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/366.png",
-        "desc": "https://www.pokemon.com/us/pokedex/366"
+        ]
     },
     {
         "id": 367,
@@ -6407,9 +5675,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/367.png",
-        "desc": "https://www.pokemon.com/us/pokedex/367"
+        ]
     },
     {
         "id": 368,
@@ -6424,9 +5690,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/368.png",
-        "desc": "https://www.pokemon.com/us/pokedex/368"
+        ]
     },
     {
         "id": 369,
@@ -6442,9 +5706,7 @@
         "type": [
             "Water",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/369.png",
-        "desc": "https://www.pokemon.com/us/pokedex/369"
+        ]
     },
     {
         "id": 370,
@@ -6459,9 +5721,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/370.png",
-        "desc": "https://www.pokemon.com/us/pokedex/370"
+        ]
     },
     {
         "id": 371,
@@ -6476,9 +5736,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/371.png",
-        "desc": "https://www.pokemon.com/us/pokedex/371"
+        ]
     },
     {
         "id": 372,
@@ -6493,9 +5751,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/372.png",
-        "desc": "https://www.pokemon.com/us/pokedex/372"
+        ]
     },
     {
         "id": 373,
@@ -6511,9 +5767,7 @@
         "type": [
             "Dragon",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png",
-        "desc": "https://www.pokemon.com/us/pokedex/373"
+        ]
     },
     {
         "id": 374,
@@ -6529,9 +5783,7 @@
         "type": [
             "Steel",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/374.png",
-        "desc": "https://www.pokemon.com/us/pokedex/374"
+        ]
     },
     {
         "id": 375,
@@ -6547,9 +5799,7 @@
         "type": [
             "Steel",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/375.png",
-        "desc": "https://www.pokemon.com/us/pokedex/375"
+        ]
     },
     {
         "id": 376,
@@ -6565,9 +5815,7 @@
         "type": [
             "Steel",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/376.png",
-        "desc": "https://www.pokemon.com/us/pokedex/376"
+        ]
     },
     {
         "id": 377,
@@ -6582,9 +5830,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/377.png",
-        "desc": "https://www.pokemon.com/us/pokedex/377"
+        ]
     },
     {
         "id": 378,
@@ -6599,9 +5845,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/378.png",
-        "desc": "https://www.pokemon.com/us/pokedex/378"
+        ]
     },
     {
         "id": 379,
@@ -6616,9 +5860,7 @@
         },
         "type": [
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/379.png",
-        "desc": "https://www.pokemon.com/us/pokedex/379"
+        ]
     },
     {
         "id": 380,
@@ -6634,9 +5876,7 @@
         "type": [
             "Dragon",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/380.png",
-        "desc": "https://www.pokemon.com/us/pokedex/380"
+        ]
     },
     {
         "id": 381,
@@ -6652,9 +5892,7 @@
         "type": [
             "Dragon",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/381.png",
-        "desc": "https://www.pokemon.com/us/pokedex/381"
+        ]
     },
     {
         "id": 382,
@@ -6669,9 +5907,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/382.png",
-        "desc": "https://www.pokemon.com/us/pokedex/382"
+        ]
     },
     {
         "id": 383,
@@ -6686,9 +5922,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png",
-        "desc": "https://www.pokemon.com/us/pokedex/383"
+        ]
     },
     {
         "id": 384,
@@ -6704,9 +5938,7 @@
         "type": [
             "Dragon",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/384.png",
-        "desc": "https://www.pokemon.com/us/pokedex/384"
+        ]
     },
     {
         "id": 385,
@@ -6722,9 +5954,7 @@
         "type": [
             "Steel",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/385.png",
-        "desc": "https://www.pokemon.com/us/pokedex/385"
+        ]
     },
     {
         "id": 386,
@@ -6739,9 +5969,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/386.png",
-        "desc": "https://www.pokemon.com/us/pokedex/386"
+        ]
     },
     {
         "id": 387,
@@ -6756,9 +5984,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/387.png",
-        "desc": "https://www.pokemon.com/us/pokedex/387"
+        ]
     },
     {
         "id": 388,
@@ -6773,9 +5999,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/388.png",
-        "desc": "https://www.pokemon.com/us/pokedex/388"
+        ]
     },
     {
         "id": 389,
@@ -6791,9 +6015,7 @@
         "type": [
             "Grass",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/389.png",
-        "desc": "https://www.pokemon.com/us/pokedex/389"
+        ]
     },
     {
         "id": 390,
@@ -6808,9 +6030,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/390.png",
-        "desc": "https://www.pokemon.com/us/pokedex/390"
+        ]
     },
     {
         "id": 391,
@@ -6826,9 +6046,7 @@
         "type": [
             "Fire",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/391.png",
-        "desc": "https://www.pokemon.com/us/pokedex/391"
+        ]
     },
     {
         "id": 392,
@@ -6844,9 +6062,7 @@
         "type": [
             "Fire",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/392.png",
-        "desc": "https://www.pokemon.com/us/pokedex/392"
+        ]
     },
     {
         "id": 393,
@@ -6861,9 +6077,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/393.png",
-        "desc": "https://www.pokemon.com/us/pokedex/393"
+        ]
     },
     {
         "id": 394,
@@ -6878,9 +6092,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/394.png",
-        "desc": "https://www.pokemon.com/us/pokedex/394"
+        ]
     },
     {
         "id": 395,
@@ -6896,9 +6108,7 @@
         "type": [
             "Water",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/395.png",
-        "desc": "https://www.pokemon.com/us/pokedex/395"
+        ]
     },
     {
         "id": 396,
@@ -6914,9 +6124,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/396.png",
-        "desc": "https://www.pokemon.com/us/pokedex/396"
+        ]
     },
     {
         "id": 397,
@@ -6932,9 +6140,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/397.png",
-        "desc": "https://www.pokemon.com/us/pokedex/397"
+        ]
     },
     {
         "id": 398,
@@ -6950,9 +6156,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/398.png",
-        "desc": "https://www.pokemon.com/us/pokedex/398"
+        ]
     },
     {
         "id": 399,
@@ -6967,9 +6171,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/399.png",
-        "desc": "https://www.pokemon.com/us/pokedex/399"
+        ]
     },
     {
         "id": 400,
@@ -6985,9 +6187,7 @@
         "type": [
             "Normal",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/400.png",
-        "desc": "https://www.pokemon.com/us/pokedex/400"
+        ]
     },
     {
         "id": 401,
@@ -7002,9 +6202,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/401.png",
-        "desc": "https://www.pokemon.com/us/pokedex/401"
+        ]
     },
     {
         "id": 402,
@@ -7019,9 +6217,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/402.png",
-        "desc": "https://www.pokemon.com/us/pokedex/402"
+        ]
     },
     {
         "id": 403,
@@ -7036,9 +6232,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/403.png",
-        "desc": "https://www.pokemon.com/us/pokedex/403"
+        ]
     },
     {
         "id": 404,
@@ -7053,9 +6247,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/404.png",
-        "desc": "https://www.pokemon.com/us/pokedex/404"
+        ]
     },
     {
         "id": 405,
@@ -7070,9 +6262,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/405.png",
-        "desc": "https://www.pokemon.com/us/pokedex/405"
+        ]
     },
     {
         "id": 406,
@@ -7088,9 +6278,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/406.png",
-        "desc": "https://www.pokemon.com/us/pokedex/406"
+        ]
     },
     {
         "id": 407,
@@ -7106,9 +6294,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/407.png",
-        "desc": "https://www.pokemon.com/us/pokedex/407"
+        ]
     },
     {
         "id": 408,
@@ -7123,9 +6309,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/408.png",
-        "desc": "https://www.pokemon.com/us/pokedex/408"
+        ]
     },
     {
         "id": 409,
@@ -7140,9 +6324,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/409.png",
-        "desc": "https://www.pokemon.com/us/pokedex/409"
+        ]
     },
     {
         "id": 410,
@@ -7158,9 +6340,7 @@
         "type": [
             "Rock",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/410.png",
-        "desc": "https://www.pokemon.com/us/pokedex/410"
+        ]
     },
     {
         "id": 411,
@@ -7176,9 +6356,7 @@
         "type": [
             "Rock",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/411.png",
-        "desc": "https://www.pokemon.com/us/pokedex/411"
+        ]
     },
     {
         "id": 412,
@@ -7193,9 +6371,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/412.png",
-        "desc": "https://www.pokemon.com/us/pokedex/412"
+        ]
     },
     {
         "id": 413,
@@ -7211,9 +6387,7 @@
         "type": [
             "Bug",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/413.png",
-        "desc": "https://www.pokemon.com/us/pokedex/413"
+        ]
     },
     {
         "id": 414,
@@ -7229,9 +6403,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/414.png",
-        "desc": "https://www.pokemon.com/us/pokedex/414"
+        ]
     },
     {
         "id": 415,
@@ -7247,9 +6419,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/415.png",
-        "desc": "https://www.pokemon.com/us/pokedex/415"
+        ]
     },
     {
         "id": 416,
@@ -7265,9 +6435,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/416.png",
-        "desc": "https://www.pokemon.com/us/pokedex/416"
+        ]
     },
     {
         "id": 417,
@@ -7282,9 +6450,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/417.png",
-        "desc": "https://www.pokemon.com/us/pokedex/417"
+        ]
     },
     {
         "id": 418,
@@ -7299,9 +6465,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/418.png",
-        "desc": "https://www.pokemon.com/us/pokedex/418"
+        ]
     },
     {
         "id": 419,
@@ -7316,9 +6480,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/419.png",
-        "desc": "https://www.pokemon.com/us/pokedex/419"
+        ]
     },
     {
         "id": 420,
@@ -7333,9 +6495,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/420.png",
-        "desc": "https://www.pokemon.com/us/pokedex/420"
+        ]
     },
     {
         "id": 421,
@@ -7350,9 +6510,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/421.png",
-        "desc": "https://www.pokemon.com/us/pokedex/421"
+        ]
     },
     {
         "id": 422,
@@ -7367,9 +6525,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/422.png",
-        "desc": "https://www.pokemon.com/us/pokedex/422"
+        ]
     },
     {
         "id": 423,
@@ -7385,9 +6541,7 @@
         "type": [
             "Water",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/423.png",
-        "desc": "https://www.pokemon.com/us/pokedex/423"
+        ]
     },
     {
         "id": 424,
@@ -7402,9 +6556,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/424.png",
-        "desc": "https://www.pokemon.com/us/pokedex/424"
+        ]
     },
     {
         "id": 425,
@@ -7420,9 +6572,7 @@
         "type": [
             "Ghost",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/425.png",
-        "desc": "https://www.pokemon.com/us/pokedex/425"
+        ]
     },
     {
         "id": 426,
@@ -7438,9 +6588,7 @@
         "type": [
             "Ghost",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/426.png",
-        "desc": "https://www.pokemon.com/us/pokedex/426"
+        ]
     },
     {
         "id": 427,
@@ -7455,9 +6603,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/427.png",
-        "desc": "https://www.pokemon.com/us/pokedex/427"
+        ]
     },
     {
         "id": 428,
@@ -7472,9 +6618,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/428.png",
-        "desc": "https://www.pokemon.com/us/pokedex/428"
+        ]
     },
     {
         "id": 429,
@@ -7489,9 +6633,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/429.png",
-        "desc": "https://www.pokemon.com/us/pokedex/429"
+        ]
     },
     {
         "id": 430,
@@ -7507,9 +6649,7 @@
         "type": [
             "Dark",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/430.png",
-        "desc": "https://www.pokemon.com/us/pokedex/430"
+        ]
     },
     {
         "id": 431,
@@ -7524,9 +6664,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/431.png",
-        "desc": "https://www.pokemon.com/us/pokedex/431"
+        ]
     },
     {
         "id": 432,
@@ -7541,9 +6679,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/432.png",
-        "desc": "https://www.pokemon.com/us/pokedex/432"
+        ]
     },
     {
         "id": 433,
@@ -7558,9 +6694,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/433.png",
-        "desc": "https://www.pokemon.com/us/pokedex/433"
+        ]
     },
     {
         "id": 434,
@@ -7576,9 +6710,7 @@
         "type": [
             "Poison",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/434.png",
-        "desc": "https://www.pokemon.com/us/pokedex/434"
+        ]
     },
     {
         "id": 435,
@@ -7594,9 +6726,7 @@
         "type": [
             "Poison",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/435.png",
-        "desc": "https://www.pokemon.com/us/pokedex/435"
+        ]
     },
     {
         "id": 436,
@@ -7612,9 +6742,7 @@
         "type": [
             "Steel",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/436.png",
-        "desc": "https://www.pokemon.com/us/pokedex/436"
+        ]
     },
     {
         "id": 437,
@@ -7630,9 +6758,7 @@
         "type": [
             "Steel",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/437.png",
-        "desc": "https://www.pokemon.com/us/pokedex/437"
+        ]
     },
     {
         "id": 438,
@@ -7647,9 +6773,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/438.png",
-        "desc": "https://www.pokemon.com/us/pokedex/438"
+        ]
     },
     {
         "id": 439,
@@ -7665,9 +6789,7 @@
         "type": [
             "Psychic",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/439.png",
-        "desc": "https://www.pokemon.com/us/pokedex/439"
+        ]
     },
     {
         "id": 440,
@@ -7682,9 +6804,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/440.png",
-        "desc": "https://www.pokemon.com/us/pokedex/440"
+        ]
     },
     {
         "id": 441,
@@ -7700,9 +6820,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/441.png",
-        "desc": "https://www.pokemon.com/us/pokedex/441"
+        ]
     },
     {
         "id": 442,
@@ -7718,9 +6836,7 @@
         "type": [
             "Ghost",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/442.png",
-        "desc": "https://www.pokemon.com/us/pokedex/442"
+        ]
     },
     {
         "id": 443,
@@ -7736,9 +6852,7 @@
         "type": [
             "Dragon",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/443.png",
-        "desc": "https://www.pokemon.com/us/pokedex/443"
+        ]
     },
     {
         "id": 444,
@@ -7754,9 +6868,7 @@
         "type": [
             "Dragon",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/444.png",
-        "desc": "https://www.pokemon.com/us/pokedex/444"
+        ]
     },
     {
         "id": 445,
@@ -7772,9 +6884,7 @@
         "type": [
             "Dragon",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/445.png",
-        "desc": "https://www.pokemon.com/us/pokedex/445"
+        ]
     },
     {
         "id": 446,
@@ -7789,9 +6899,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/446.png",
-        "desc": "https://www.pokemon.com/us/pokedex/446"
+        ]
     },
     {
         "id": 447,
@@ -7806,9 +6914,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/447.png",
-        "desc": "https://www.pokemon.com/us/pokedex/447"
+        ]
     },
     {
         "id": 448,
@@ -7824,9 +6930,7 @@
         "type": [
             "Fighting",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png",
-        "desc": "https://www.pokemon.com/us/pokedex/448"
+        ]
     },
     {
         "id": 449,
@@ -7841,9 +6945,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/449.png",
-        "desc": "https://www.pokemon.com/us/pokedex/449"
+        ]
     },
     {
         "id": 450,
@@ -7858,9 +6960,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/450.png",
-        "desc": "https://www.pokemon.com/us/pokedex/450"
+        ]
     },
     {
         "id": 451,
@@ -7876,9 +6976,7 @@
         "type": [
             "Poison",
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/451.png",
-        "desc": "https://www.pokemon.com/us/pokedex/451"
+        ]
     },
     {
         "id": 452,
@@ -7894,9 +6992,7 @@
         "type": [
             "Poison",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/452.png",
-        "desc": "https://www.pokemon.com/us/pokedex/452"
+        ]
     },
     {
         "id": 453,
@@ -7912,9 +7008,7 @@
         "type": [
             "Poison",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/453.png",
-        "desc": "https://www.pokemon.com/us/pokedex/453"
+        ]
     },
     {
         "id": 454,
@@ -7930,9 +7024,7 @@
         "type": [
             "Poison",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/454.png",
-        "desc": "https://www.pokemon.com/us/pokedex/454"
+        ]
     },
     {
         "id": 455,
@@ -7947,9 +7039,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/455.png",
-        "desc": "https://www.pokemon.com/us/pokedex/455"
+        ]
     },
     {
         "id": 456,
@@ -7964,9 +7054,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/456.png",
-        "desc": "https://www.pokemon.com/us/pokedex/456"
+        ]
     },
     {
         "id": 457,
@@ -7981,9 +7069,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/457.png",
-        "desc": "https://www.pokemon.com/us/pokedex/457"
+        ]
     },
     {
         "id": 458,
@@ -7999,9 +7085,7 @@
         "type": [
             "Water",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/458.png",
-        "desc": "https://www.pokemon.com/us/pokedex/458"
+        ]
     },
     {
         "id": 459,
@@ -8017,9 +7101,7 @@
         "type": [
             "Grass",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/459.png",
-        "desc": "https://www.pokemon.com/us/pokedex/459"
+        ]
     },
     {
         "id": 460,
@@ -8035,9 +7117,7 @@
         "type": [
             "Grass",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/460.png",
-        "desc": "https://www.pokemon.com/us/pokedex/460"
+        ]
     },
     {
         "id": 461,
@@ -8053,9 +7133,7 @@
         "type": [
             "Dark",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/461.png",
-        "desc": "https://www.pokemon.com/us/pokedex/461"
+        ]
     },
     {
         "id": 462,
@@ -8071,9 +7149,7 @@
         "type": [
             "Electric",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/462.png",
-        "desc": "https://www.pokemon.com/us/pokedex/462"
+        ]
     },
     {
         "id": 463,
@@ -8088,9 +7164,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/463.png",
-        "desc": "https://www.pokemon.com/us/pokedex/463"
+        ]
     },
     {
         "id": 464,
@@ -8106,9 +7180,7 @@
         "type": [
             "Ground",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/464.png",
-        "desc": "https://www.pokemon.com/us/pokedex/464"
+        ]
     },
     {
         "id": 465,
@@ -8123,9 +7195,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/465.png",
-        "desc": "https://www.pokemon.com/us/pokedex/465"
+        ]
     },
     {
         "id": 466,
@@ -8140,9 +7210,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/466.png",
-        "desc": "https://www.pokemon.com/us/pokedex/466"
+        ]
     },
     {
         "id": 467,
@@ -8157,9 +7225,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/467.png",
-        "desc": "https://www.pokemon.com/us/pokedex/467"
+        ]
     },
     {
         "id": 468,
@@ -8175,9 +7241,7 @@
         "type": [
             "Fairy",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/468.png",
-        "desc": "https://www.pokemon.com/us/pokedex/468"
+        ]
     },
     {
         "id": 469,
@@ -8193,9 +7257,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/469.png",
-        "desc": "https://www.pokemon.com/us/pokedex/469"
+        ]
     },
     {
         "id": 470,
@@ -8210,9 +7272,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/470.png",
-        "desc": "https://www.pokemon.com/us/pokedex/470"
+        ]
     },
     {
         "id": 471,
@@ -8227,9 +7287,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/471.png",
-        "desc": "https://www.pokemon.com/us/pokedex/471"
+        ]
     },
     {
         "id": 472,
@@ -8245,9 +7303,7 @@
         "type": [
             "Ground",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/472.png",
-        "desc": "https://www.pokemon.com/us/pokedex/472"
+        ]
     },
     {
         "id": 473,
@@ -8263,9 +7319,7 @@
         "type": [
             "Ice",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/473.png",
-        "desc": "https://www.pokemon.com/us/pokedex/473"
+        ]
     },
     {
         "id": 474,
@@ -8280,9 +7334,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/474.png",
-        "desc": "https://www.pokemon.com/us/pokedex/474"
+        ]
     },
     {
         "id": 475,
@@ -8298,9 +7350,7 @@
         "type": [
             "Psychic",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/475.png",
-        "desc": "https://www.pokemon.com/us/pokedex/475"
+        ]
     },
     {
         "id": 476,
@@ -8316,9 +7366,7 @@
         "type": [
             "Rock",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/476.png",
-        "desc": "https://www.pokemon.com/us/pokedex/476"
+        ]
     },
     {
         "id": 477,
@@ -8333,9 +7381,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/477.png",
-        "desc": "https://www.pokemon.com/us/pokedex/477"
+        ]
     },
     {
         "id": 478,
@@ -8351,9 +7397,7 @@
         "type": [
             "Ice",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/478.png",
-        "desc": "https://www.pokemon.com/us/pokedex/478"
+        ]
     },
     {
         "id": 479,
@@ -8369,9 +7413,7 @@
         "type": [
             "Electric",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/479.png",
-        "desc": "https://www.pokemon.com/us/pokedex/479"
+        ]
     },
     {
         "id": 480,
@@ -8386,9 +7428,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/480.png",
-        "desc": "https://www.pokemon.com/us/pokedex/480"
+        ]
     },
     {
         "id": 481,
@@ -8403,9 +7443,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/481.png",
-        "desc": "https://www.pokemon.com/us/pokedex/481"
+        ]
     },
     {
         "id": 482,
@@ -8420,9 +7458,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/482.png",
-        "desc": "https://www.pokemon.com/us/pokedex/482"
+        ]
     },
     {
         "id": 483,
@@ -8438,9 +7474,7 @@
         "type": [
             "Steel",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png",
-        "desc": "https://www.pokemon.com/us/pokedex/483"
+        ]
     },
     {
         "id": 484,
@@ -8456,9 +7490,7 @@
         "type": [
             "Water",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/484.png",
-        "desc": "https://www.pokemon.com/us/pokedex/484"
+        ]
     },
     {
         "id": 485,
@@ -8474,9 +7506,7 @@
         "type": [
             "Fire",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/485.png",
-        "desc": "https://www.pokemon.com/us/pokedex/485"
+        ]
     },
     {
         "id": 486,
@@ -8491,9 +7521,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/486.png",
-        "desc": "https://www.pokemon.com/us/pokedex/486"
+        ]
     },
     {
         "id": 487,
@@ -8509,9 +7537,7 @@
         "type": [
             "Ghost",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png",
-        "desc": "https://www.pokemon.com/us/pokedex/487"
+        ]
     },
     {
         "id": 488,
@@ -8526,9 +7552,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/488.png",
-        "desc": "https://www.pokemon.com/us/pokedex/488"
+        ]
     },
     {
         "id": 489,
@@ -8543,9 +7567,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/489.png",
-        "desc": "https://www.pokemon.com/us/pokedex/489"
+        ]
     },
     {
         "id": 490,
@@ -8560,9 +7582,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/490.png",
-        "desc": "https://www.pokemon.com/us/pokedex/490"
+        ]
     },
     {
         "id": 491,
@@ -8577,9 +7597,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/491.png",
-        "desc": "https://www.pokemon.com/us/pokedex/491"
+        ]
     },
     {
         "id": 492,
@@ -8594,9 +7612,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/492.png",
-        "desc": "https://www.pokemon.com/us/pokedex/492"
+        ]
     },
     {
         "id": 493,
@@ -8611,9 +7627,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png",
-        "desc": "https://www.pokemon.com/us/pokedex/493"
+        ]
     },
     {
         "id": 494,
@@ -8629,9 +7643,7 @@
         "type": [
             "Psychic",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/494.png",
-        "desc": "https://www.pokemon.com/us/pokedex/494"
+        ]
     },
     {
         "id": 495,
@@ -8646,9 +7658,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/495.png",
-        "desc": "https://www.pokemon.com/us/pokedex/495"
+        ]
     },
     {
         "id": 496,
@@ -8663,9 +7673,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/496.png",
-        "desc": "https://www.pokemon.com/us/pokedex/496"
+        ]
     },
     {
         "id": 497,
@@ -8680,9 +7688,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/497.png",
-        "desc": "https://www.pokemon.com/us/pokedex/497"
+        ]
     },
     {
         "id": 498,
@@ -8697,9 +7703,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/498.png",
-        "desc": "https://www.pokemon.com/us/pokedex/498"
+        ]
     },
     {
         "id": 499,
@@ -8715,9 +7719,7 @@
         "type": [
             "Fire",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/499.png",
-        "desc": "https://www.pokemon.com/us/pokedex/499"
+        ]
     },
     {
         "id": 500,
@@ -8733,9 +7735,7 @@
         "type": [
             "Fire",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/500.png",
-        "desc": "https://www.pokemon.com/us/pokedex/500"
+        ]
     },
     {
         "id": 501,
@@ -8750,9 +7750,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/501.png",
-        "desc": "https://www.pokemon.com/us/pokedex/501"
+        ]
     },
     {
         "id": 502,
@@ -8767,9 +7765,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/502.png",
-        "desc": "https://www.pokemon.com/us/pokedex/502"
+        ]
     },
     {
         "id": 503,
@@ -8784,9 +7780,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/503.png",
-        "desc": "https://www.pokemon.com/us/pokedex/503"
+        ]
     },
     {
         "id": 504,
@@ -8801,9 +7795,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/504.png",
-        "desc": "https://www.pokemon.com/us/pokedex/504"
+        ]
     },
     {
         "id": 505,
@@ -8818,9 +7810,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/505.png",
-        "desc": "https://www.pokemon.com/us/pokedex/505"
+        ]
     },
     {
         "id": 506,
@@ -8835,9 +7825,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/506.png",
-        "desc": "https://www.pokemon.com/us/pokedex/506"
+        ]
     },
     {
         "id": 507,
@@ -8852,9 +7840,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/507.png",
-        "desc": "https://www.pokemon.com/us/pokedex/507"
+        ]
     },
     {
         "id": 508,
@@ -8869,9 +7855,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/508.png",
-        "desc": "https://www.pokemon.com/us/pokedex/508"
+        ]
     },
     {
         "id": 509,
@@ -8886,9 +7870,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/509.png",
-        "desc": "https://www.pokemon.com/us/pokedex/509"
+        ]
     },
     {
         "id": 510,
@@ -8903,9 +7885,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/510.png",
-        "desc": "https://www.pokemon.com/us/pokedex/510"
+        ]
     },
     {
         "id": 511,
@@ -8920,9 +7900,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/511.png",
-        "desc": "https://www.pokemon.com/us/pokedex/511"
+        ]
     },
     {
         "id": 512,
@@ -8937,9 +7915,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/512.png",
-        "desc": "https://www.pokemon.com/us/pokedex/512"
+        ]
     },
     {
         "id": 513,
@@ -8954,9 +7930,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/513.png",
-        "desc": "https://www.pokemon.com/us/pokedex/513"
+        ]
     },
     {
         "id": 514,
@@ -8971,9 +7945,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/514.png",
-        "desc": "https://www.pokemon.com/us/pokedex/514"
+        ]
     },
     {
         "id": 515,
@@ -8988,9 +7960,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/515.png",
-        "desc": "https://www.pokemon.com/us/pokedex/515"
+        ]
     },
     {
         "id": 516,
@@ -9005,9 +7975,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/516.png",
-        "desc": "https://www.pokemon.com/us/pokedex/516"
+        ]
     },
     {
         "id": 517,
@@ -9022,9 +7990,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/517.png",
-        "desc": "https://www.pokemon.com/us/pokedex/517"
+        ]
     },
     {
         "id": 518,
@@ -9039,9 +8005,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/518.png",
-        "desc": "https://www.pokemon.com/us/pokedex/518"
+        ]
     },
     {
         "id": 519,
@@ -9057,9 +8021,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/519.png",
-        "desc": "https://www.pokemon.com/us/pokedex/519"
+        ]
     },
     {
         "id": 520,
@@ -9075,9 +8037,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/520.png",
-        "desc": "https://www.pokemon.com/us/pokedex/520"
+        ]
     },
     {
         "id": 521,
@@ -9093,9 +8053,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/521.png",
-        "desc": "https://www.pokemon.com/us/pokedex/521"
+        ]
     },
     {
         "id": 522,
@@ -9110,9 +8068,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/522.png",
-        "desc": "https://www.pokemon.com/us/pokedex/522"
+        ]
     },
     {
         "id": 523,
@@ -9127,9 +8083,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/523.png",
-        "desc": "https://www.pokemon.com/us/pokedex/523"
+        ]
     },
     {
         "id": 524,
@@ -9144,9 +8098,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/524.png",
-        "desc": "https://www.pokemon.com/us/pokedex/524"
+        ]
     },
     {
         "id": 525,
@@ -9161,9 +8113,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/525.png",
-        "desc": "https://www.pokemon.com/us/pokedex/525"
+        ]
     },
     {
         "id": 526,
@@ -9178,9 +8128,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/526.png",
-        "desc": "https://www.pokemon.com/us/pokedex/526"
+        ]
     },
     {
         "id": 527,
@@ -9196,9 +8144,7 @@
         "type": [
             "Psychic",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/527.png",
-        "desc": "https://www.pokemon.com/us/pokedex/527"
+        ]
     },
     {
         "id": 528,
@@ -9214,9 +8160,7 @@
         "type": [
             "Psychic",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/528.png",
-        "desc": "https://www.pokemon.com/us/pokedex/528"
+        ]
     },
     {
         "id": 529,
@@ -9231,9 +8175,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/529.png",
-        "desc": "https://www.pokemon.com/us/pokedex/529"
+        ]
     },
     {
         "id": 530,
@@ -9249,9 +8191,7 @@
         "type": [
             "Ground",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/530.png",
-        "desc": "https://www.pokemon.com/us/pokedex/530"
+        ]
     },
     {
         "id": 531,
@@ -9266,9 +8206,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/531.png",
-        "desc": "https://www.pokemon.com/us/pokedex/531"
+        ]
     },
     {
         "id": 532,
@@ -9283,9 +8221,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/532.png",
-        "desc": "https://www.pokemon.com/us/pokedex/532"
+        ]
     },
     {
         "id": 533,
@@ -9300,9 +8236,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/533.png",
-        "desc": "https://www.pokemon.com/us/pokedex/533"
+        ]
     },
     {
         "id": 534,
@@ -9317,9 +8251,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/534.png",
-        "desc": "https://www.pokemon.com/us/pokedex/534"
+        ]
     },
     {
         "id": 535,
@@ -9334,9 +8266,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/535.png",
-        "desc": "https://www.pokemon.com/us/pokedex/535"
+        ]
     },
     {
         "id": 536,
@@ -9352,9 +8282,7 @@
         "type": [
             "Water",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/536.png",
-        "desc": "https://www.pokemon.com/us/pokedex/536"
+        ]
     },
     {
         "id": 537,
@@ -9370,9 +8298,7 @@
         "type": [
             "Water",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/537.png",
-        "desc": "https://www.pokemon.com/us/pokedex/537"
+        ]
     },
     {
         "id": 538,
@@ -9387,9 +8313,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/538.png",
-        "desc": "https://www.pokemon.com/us/pokedex/538"
+        ]
     },
     {
         "id": 539,
@@ -9404,9 +8328,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/539.png",
-        "desc": "https://www.pokemon.com/us/pokedex/539"
+        ]
     },
     {
         "id": 540,
@@ -9422,9 +8344,7 @@
         "type": [
             "Bug",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/540.png",
-        "desc": "https://www.pokemon.com/us/pokedex/540"
+        ]
     },
     {
         "id": 541,
@@ -9440,9 +8360,7 @@
         "type": [
             "Bug",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/541.png",
-        "desc": "https://www.pokemon.com/us/pokedex/541"
+        ]
     },
     {
         "id": 542,
@@ -9458,9 +8376,7 @@
         "type": [
             "Bug",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/542.png",
-        "desc": "https://www.pokemon.com/us/pokedex/542"
+        ]
     },
     {
         "id": 543,
@@ -9476,9 +8392,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/543.png",
-        "desc": "https://www.pokemon.com/us/pokedex/543"
+        ]
     },
     {
         "id": 544,
@@ -9494,9 +8408,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/544.png",
-        "desc": "https://www.pokemon.com/us/pokedex/544"
+        ]
     },
     {
         "id": 545,
@@ -9512,9 +8424,7 @@
         "type": [
             "Bug",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/545.png",
-        "desc": "https://www.pokemon.com/us/pokedex/545"
+        ]
     },
     {
         "id": 546,
@@ -9530,9 +8440,7 @@
         "type": [
             "Grass",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/546.png",
-        "desc": "https://www.pokemon.com/us/pokedex/546"
+        ]
     },
     {
         "id": 547,
@@ -9548,9 +8456,7 @@
         "type": [
             "Grass",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/547.png",
-        "desc": "https://www.pokemon.com/us/pokedex/547"
+        ]
     },
     {
         "id": 548,
@@ -9565,9 +8471,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/548.png",
-        "desc": "https://www.pokemon.com/us/pokedex/548"
+        ]
     },
     {
         "id": 549,
@@ -9582,9 +8486,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/549.png",
-        "desc": "https://www.pokemon.com/us/pokedex/549"
+        ]
     },
     {
         "id": 550,
@@ -9599,9 +8501,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/550.png",
-        "desc": "https://www.pokemon.com/us/pokedex/550"
+        ]
     },
     {
         "id": 551,
@@ -9617,9 +8517,7 @@
         "type": [
             "Ground",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/551.png",
-        "desc": "https://www.pokemon.com/us/pokedex/551"
+        ]
     },
     {
         "id": 552,
@@ -9635,9 +8533,7 @@
         "type": [
             "Ground",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/552.png",
-        "desc": "https://www.pokemon.com/us/pokedex/552"
+        ]
     },
     {
         "id": 553,
@@ -9653,9 +8549,7 @@
         "type": [
             "Ground",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/553.png",
-        "desc": "https://www.pokemon.com/us/pokedex/553"
+        ]
     },
     {
         "id": 554,
@@ -9670,9 +8564,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/554.png",
-        "desc": "https://www.pokemon.com/us/pokedex/554"
+        ]
     },
     {
         "id": 555,
@@ -9687,9 +8579,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/555.png",
-        "desc": "https://www.pokemon.com/us/pokedex/555"
+        ]
     },
     {
         "id": 556,
@@ -9704,9 +8594,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/556.png",
-        "desc": "https://www.pokemon.com/us/pokedex/556"
+        ]
     },
     {
         "id": 557,
@@ -9722,9 +8610,7 @@
         "type": [
             "Bug",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/557.png",
-        "desc": "https://www.pokemon.com/us/pokedex/557"
+        ]
     },
     {
         "id": 558,
@@ -9740,9 +8626,7 @@
         "type": [
             "Bug",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/558.png",
-        "desc": "https://www.pokemon.com/us/pokedex/558"
+        ]
     },
     {
         "id": 559,
@@ -9758,9 +8642,7 @@
         "type": [
             "Dark",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/559.png",
-        "desc": "https://www.pokemon.com/us/pokedex/559"
+        ]
     },
     {
         "id": 560,
@@ -9776,9 +8658,7 @@
         "type": [
             "Dark",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/560.png",
-        "desc": "https://www.pokemon.com/us/pokedex/560"
+        ]
     },
     {
         "id": 561,
@@ -9794,9 +8674,7 @@
         "type": [
             "Psychic",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/561.png",
-        "desc": "https://www.pokemon.com/us/pokedex/561"
+        ]
     },
     {
         "id": 562,
@@ -9811,9 +8689,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/562.png",
-        "desc": "https://www.pokemon.com/us/pokedex/562"
+        ]
     },
     {
         "id": 563,
@@ -9828,9 +8704,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/563.png",
-        "desc": "https://www.pokemon.com/us/pokedex/563"
+        ]
     },
     {
         "id": 564,
@@ -9846,9 +8720,7 @@
         "type": [
             "Water",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/564.png",
-        "desc": "https://www.pokemon.com/us/pokedex/564"
+        ]
     },
     {
         "id": 565,
@@ -9864,9 +8736,7 @@
         "type": [
             "Water",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/565.png",
-        "desc": "https://www.pokemon.com/us/pokedex/565"
+        ]
     },
     {
         "id": 566,
@@ -9882,9 +8752,7 @@
         "type": [
             "Rock",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/566.png",
-        "desc": "https://www.pokemon.com/us/pokedex/566"
+        ]
     },
     {
         "id": 567,
@@ -9900,9 +8768,7 @@
         "type": [
             "Rock",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/567.png",
-        "desc": "https://www.pokemon.com/us/pokedex/567"
+        ]
     },
     {
         "id": 568,
@@ -9917,9 +8783,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/568.png",
-        "desc": "https://www.pokemon.com/us/pokedex/568"
+        ]
     },
     {
         "id": 569,
@@ -9934,9 +8798,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/569.png",
-        "desc": "https://www.pokemon.com/us/pokedex/569"
+        ]
     },
     {
         "id": 570,
@@ -9951,9 +8813,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/570.png",
-        "desc": "https://www.pokemon.com/us/pokedex/570"
+        ]
     },
     {
         "id": 571,
@@ -9968,9 +8828,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/571.png",
-        "desc": "https://www.pokemon.com/us/pokedex/571"
+        ]
     },
     {
         "id": 572,
@@ -9985,9 +8843,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/572.png",
-        "desc": "https://www.pokemon.com/us/pokedex/572"
+        ]
     },
     {
         "id": 573,
@@ -10002,9 +8858,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/573.png",
-        "desc": "https://www.pokemon.com/us/pokedex/573"
+        ]
     },
     {
         "id": 574,
@@ -10019,9 +8873,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/574.png",
-        "desc": "https://www.pokemon.com/us/pokedex/574"
+        ]
     },
     {
         "id": 575,
@@ -10036,9 +8888,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/575.png",
-        "desc": "https://www.pokemon.com/us/pokedex/575"
+        ]
     },
     {
         "id": 576,
@@ -10053,9 +8903,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/576.png",
-        "desc": "https://www.pokemon.com/us/pokedex/576"
+        ]
     },
     {
         "id": 577,
@@ -10070,9 +8918,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/577.png",
-        "desc": "https://www.pokemon.com/us/pokedex/577"
+        ]
     },
     {
         "id": 578,
@@ -10087,9 +8933,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/578.png",
-        "desc": "https://www.pokemon.com/us/pokedex/578"
+        ]
     },
     {
         "id": 579,
@@ -10104,9 +8948,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/579.png",
-        "desc": "https://www.pokemon.com/us/pokedex/579"
+        ]
     },
     {
         "id": 580,
@@ -10122,9 +8964,7 @@
         "type": [
             "Water",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/580.png",
-        "desc": "https://www.pokemon.com/us/pokedex/580"
+        ]
     },
     {
         "id": 581,
@@ -10140,9 +8980,7 @@
         "type": [
             "Water",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/581.png",
-        "desc": "https://www.pokemon.com/us/pokedex/581"
+        ]
     },
     {
         "id": 582,
@@ -10157,9 +8995,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/582.png",
-        "desc": "https://www.pokemon.com/us/pokedex/582"
+        ]
     },
     {
         "id": 583,
@@ -10174,9 +9010,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/583.png",
-        "desc": "https://www.pokemon.com/us/pokedex/583"
+        ]
     },
     {
         "id": 584,
@@ -10191,9 +9025,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/584.png",
-        "desc": "https://www.pokemon.com/us/pokedex/584"
+        ]
     },
     {
         "id": 585,
@@ -10209,9 +9041,7 @@
         "type": [
             "Normal",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/585.png",
-        "desc": "https://www.pokemon.com/us/pokedex/585"
+        ]
     },
     {
         "id": 586,
@@ -10227,9 +9057,7 @@
         "type": [
             "Normal",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/586.png",
-        "desc": "https://www.pokemon.com/us/pokedex/586"
+        ]
     },
     {
         "id": 587,
@@ -10245,9 +9073,7 @@
         "type": [
             "Electric",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/587.png",
-        "desc": "https://www.pokemon.com/us/pokedex/587"
+        ]
     },
     {
         "id": 588,
@@ -10262,9 +9088,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/588.png",
-        "desc": "https://www.pokemon.com/us/pokedex/588"
+        ]
     },
     {
         "id": 589,
@@ -10280,9 +9104,7 @@
         "type": [
             "Bug",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/589.png",
-        "desc": "https://www.pokemon.com/us/pokedex/589"
+        ]
     },
     {
         "id": 590,
@@ -10298,9 +9120,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/590.png",
-        "desc": "https://www.pokemon.com/us/pokedex/590"
+        ]
     },
     {
         "id": 591,
@@ -10316,9 +9136,7 @@
         "type": [
             "Grass",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/591.png",
-        "desc": "https://www.pokemon.com/us/pokedex/591"
+        ]
     },
     {
         "id": 592,
@@ -10334,9 +9152,7 @@
         "type": [
             "Water",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/592.png",
-        "desc": "https://www.pokemon.com/us/pokedex/592"
+        ]
     },
     {
         "id": 593,
@@ -10352,9 +9168,7 @@
         "type": [
             "Water",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/593.png",
-        "desc": "https://www.pokemon.com/us/pokedex/593"
+        ]
     },
     {
         "id": 594,
@@ -10369,9 +9183,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/594.png",
-        "desc": "https://www.pokemon.com/us/pokedex/594"
+        ]
     },
     {
         "id": 595,
@@ -10387,9 +9199,7 @@
         "type": [
             "Bug",
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/595.png",
-        "desc": "https://www.pokemon.com/us/pokedex/595"
+        ]
     },
     {
         "id": 596,
@@ -10405,9 +9215,7 @@
         "type": [
             "Bug",
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/596.png",
-        "desc": "https://www.pokemon.com/us/pokedex/596"
+        ]
     },
     {
         "id": 597,
@@ -10423,9 +9231,7 @@
         "type": [
             "Grass",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/597.png",
-        "desc": "https://www.pokemon.com/us/pokedex/597"
+        ]
     },
     {
         "id": 598,
@@ -10441,9 +9247,7 @@
         "type": [
             "Grass",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/598.png",
-        "desc": "https://www.pokemon.com/us/pokedex/598"
+        ]
     },
     {
         "id": 599,
@@ -10458,9 +9262,7 @@
         },
         "type": [
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/599.png",
-        "desc": "https://www.pokemon.com/us/pokedex/599"
+        ]
     },
     {
         "id": 600,
@@ -10475,9 +9277,7 @@
         },
         "type": [
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/600.png",
-        "desc": "https://www.pokemon.com/us/pokedex/600"
+        ]
     },
     {
         "id": 601,
@@ -10492,9 +9292,7 @@
         },
         "type": [
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/601.png",
-        "desc": "https://www.pokemon.com/us/pokedex/601"
+        ]
     },
     {
         "id": 602,
@@ -10509,9 +9307,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/602.png",
-        "desc": "https://www.pokemon.com/us/pokedex/602"
+        ]
     },
     {
         "id": 603,
@@ -10526,9 +9322,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/603.png",
-        "desc": "https://www.pokemon.com/us/pokedex/603"
+        ]
     },
     {
         "id": 604,
@@ -10543,9 +9337,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/604.png",
-        "desc": "https://www.pokemon.com/us/pokedex/604"
+        ]
     },
     {
         "id": 605,
@@ -10560,9 +9352,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/605.png",
-        "desc": "https://www.pokemon.com/us/pokedex/605"
+        ]
     },
     {
         "id": 606,
@@ -10577,9 +9367,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/606.png",
-        "desc": "https://www.pokemon.com/us/pokedex/606"
+        ]
     },
     {
         "id": 607,
@@ -10595,9 +9383,7 @@
         "type": [
             "Ghost",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/607.png",
-        "desc": "https://www.pokemon.com/us/pokedex/607"
+        ]
     },
     {
         "id": 608,
@@ -10613,9 +9399,7 @@
         "type": [
             "Ghost",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/608.png",
-        "desc": "https://www.pokemon.com/us/pokedex/608"
+        ]
     },
     {
         "id": 609,
@@ -10631,9 +9415,7 @@
         "type": [
             "Ghost",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/609.png",
-        "desc": "https://www.pokemon.com/us/pokedex/609"
+        ]
     },
     {
         "id": 610,
@@ -10648,9 +9430,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/610.png",
-        "desc": "https://www.pokemon.com/us/pokedex/610"
+        ]
     },
     {
         "id": 611,
@@ -10665,9 +9445,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/611.png",
-        "desc": "https://www.pokemon.com/us/pokedex/611"
+        ]
     },
     {
         "id": 612,
@@ -10682,9 +9460,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png",
-        "desc": "https://www.pokemon.com/us/pokedex/612"
+        ]
     },
     {
         "id": 613,
@@ -10699,9 +9475,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/613.png",
-        "desc": "https://www.pokemon.com/us/pokedex/613"
+        ]
     },
     {
         "id": 614,
@@ -10716,9 +9490,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/614.png",
-        "desc": "https://www.pokemon.com/us/pokedex/614"
+        ]
     },
     {
         "id": 615,
@@ -10733,9 +9505,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/615.png",
-        "desc": "https://www.pokemon.com/us/pokedex/615"
+        ]
     },
     {
         "id": 616,
@@ -10750,9 +9520,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/616.png",
-        "desc": "https://www.pokemon.com/us/pokedex/616"
+        ]
     },
     {
         "id": 617,
@@ -10767,9 +9535,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/617.png",
-        "desc": "https://www.pokemon.com/us/pokedex/617"
+        ]
     },
     {
         "id": 618,
@@ -10785,9 +9551,7 @@
         "type": [
             "Ground",
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/618.png",
-        "desc": "https://www.pokemon.com/us/pokedex/618"
+        ]
     },
     {
         "id": 619,
@@ -10802,9 +9566,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/619.png",
-        "desc": "https://www.pokemon.com/us/pokedex/619"
+        ]
     },
     {
         "id": 620,
@@ -10819,9 +9581,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/620.png",
-        "desc": "https://www.pokemon.com/us/pokedex/620"
+        ]
     },
     {
         "id": 621,
@@ -10836,9 +9596,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/621.png",
-        "desc": "https://www.pokemon.com/us/pokedex/621"
+        ]
     },
     {
         "id": 622,
@@ -10854,9 +9612,7 @@
         "type": [
             "Ground",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/622.png",
-        "desc": "https://www.pokemon.com/us/pokedex/622"
+        ]
     },
     {
         "id": 623,
@@ -10872,9 +9628,7 @@
         "type": [
             "Ground",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/623.png",
-        "desc": "https://www.pokemon.com/us/pokedex/623"
+        ]
     },
     {
         "id": 624,
@@ -10890,9 +9644,7 @@
         "type": [
             "Dark",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/624.png",
-        "desc": "https://www.pokemon.com/us/pokedex/624"
+        ]
     },
     {
         "id": 625,
@@ -10908,9 +9660,7 @@
         "type": [
             "Dark",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/625.png",
-        "desc": "https://www.pokemon.com/us/pokedex/625"
+        ]
     },
     {
         "id": 626,
@@ -10925,9 +9675,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/626.png",
-        "desc": "https://www.pokemon.com/us/pokedex/626"
+        ]
     },
     {
         "id": 627,
@@ -10943,9 +9691,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/627.png",
-        "desc": "https://www.pokemon.com/us/pokedex/627"
+        ]
     },
     {
         "id": 628,
@@ -10961,9 +9707,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/628.png",
-        "desc": "https://www.pokemon.com/us/pokedex/628"
+        ]
     },
     {
         "id": 629,
@@ -10979,9 +9723,7 @@
         "type": [
             "Dark",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/629.png",
-        "desc": "https://www.pokemon.com/us/pokedex/629"
+        ]
     },
     {
         "id": 630,
@@ -10997,9 +9739,7 @@
         "type": [
             "Dark",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/630.png",
-        "desc": "https://www.pokemon.com/us/pokedex/630"
+        ]
     },
     {
         "id": 631,
@@ -11014,9 +9754,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/631.png",
-        "desc": "https://www.pokemon.com/us/pokedex/631"
+        ]
     },
     {
         "id": 632,
@@ -11032,9 +9770,7 @@
         "type": [
             "Bug",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/632.png",
-        "desc": "https://www.pokemon.com/us/pokedex/632"
+        ]
     },
     {
         "id": 633,
@@ -11050,9 +9786,7 @@
         "type": [
             "Dark",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/633.png",
-        "desc": "https://www.pokemon.com/us/pokedex/633"
+        ]
     },
     {
         "id": 634,
@@ -11068,9 +9802,7 @@
         "type": [
             "Dark",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/634.png",
-        "desc": "https://www.pokemon.com/us/pokedex/634"
+        ]
     },
     {
         "id": 635,
@@ -11086,9 +9818,7 @@
         "type": [
             "Dark",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/635.png",
-        "desc": "https://www.pokemon.com/us/pokedex/635"
+        ]
     },
     {
         "id": 636,
@@ -11104,9 +9834,7 @@
         "type": [
             "Bug",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/636.png",
-        "desc": "https://www.pokemon.com/us/pokedex/636"
+        ]
     },
     {
         "id": 637,
@@ -11122,9 +9850,7 @@
         "type": [
             "Bug",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/637.png",
-        "desc": "https://www.pokemon.com/us/pokedex/637"
+        ]
     },
     {
         "id": 638,
@@ -11140,9 +9866,7 @@
         "type": [
             "Steel",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/638.png",
-        "desc": "https://www.pokemon.com/us/pokedex/638"
+        ]
     },
     {
         "id": 639,
@@ -11158,9 +9882,7 @@
         "type": [
             "Rock",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/639.png",
-        "desc": "https://www.pokemon.com/us/pokedex/639"
+        ]
     },
     {
         "id": 640,
@@ -11176,9 +9898,7 @@
         "type": [
             "Grass",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/640.png",
-        "desc": "https://www.pokemon.com/us/pokedex/640"
+        ]
     },
     {
         "id": 641,
@@ -11193,9 +9913,7 @@
         },
         "type": [
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png",
-        "desc": "https://www.pokemon.com/us/pokedex/641"
+        ]
     },
     {
         "id": 642,
@@ -11211,9 +9929,7 @@
         "type": [
             "Electric",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/642.png",
-        "desc": "https://www.pokemon.com/us/pokedex/642"
+        ]
     },
     {
         "id": 643,
@@ -11229,9 +9945,7 @@
         "type": [
             "Dragon",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/643.png",
-        "desc": "https://www.pokemon.com/us/pokedex/643"
+        ]
     },
     {
         "id": 644,
@@ -11247,9 +9961,7 @@
         "type": [
             "Dragon",
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/644.png",
-        "desc": "https://www.pokemon.com/us/pokedex/644"
+        ]
     },
     {
         "id": 645,
@@ -11265,9 +9977,7 @@
         "type": [
             "Ground",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/645.png",
-        "desc": "https://www.pokemon.com/us/pokedex/645"
+        ]
     },
     {
         "id": 646,
@@ -11283,9 +9993,7 @@
         "type": [
             "Dragon",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/646.png",
-        "desc": "https://www.pokemon.com/us/pokedex/646"
+        ]
     },
     {
         "id": 647,
@@ -11301,9 +10009,7 @@
         "type": [
             "Water",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/647.png",
-        "desc": "https://www.pokemon.com/us/pokedex/647"
+        ]
     },
     {
         "id": 648,
@@ -11319,9 +10025,7 @@
         "type": [
             "Normal",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/648.png",
-        "desc": "https://www.pokemon.com/us/pokedex/648"
+        ]
     },
     {
         "id": 649,
@@ -11337,9 +10041,7 @@
         "type": [
             "Bug",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/649.png",
-        "desc": "https://www.pokemon.com/us/pokedex/649"
+        ]
     },
     {
         "id": 650,
@@ -11354,9 +10056,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/650.png",
-        "desc": "https://www.pokemon.com/us/pokedex/650"
+        ]
     },
     {
         "id": 651,
@@ -11371,9 +10071,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/651.png",
-        "desc": "https://www.pokemon.com/us/pokedex/651"
+        ]
     },
     {
         "id": 652,
@@ -11389,9 +10087,7 @@
         "type": [
             "Grass",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/652.png",
-        "desc": "https://www.pokemon.com/us/pokedex/652"
+        ]
     },
     {
         "id": 653,
@@ -11406,9 +10102,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/653.png",
-        "desc": "https://www.pokemon.com/us/pokedex/653"
+        ]
     },
     {
         "id": 654,
@@ -11423,9 +10117,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/654.png",
-        "desc": "https://www.pokemon.com/us/pokedex/654"
+        ]
     },
     {
         "id": 655,
@@ -11441,9 +10133,7 @@
         "type": [
             "Fire",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/655.png",
-        "desc": "https://www.pokemon.com/us/pokedex/655"
+        ]
     },
     {
         "id": 656,
@@ -11458,9 +10148,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/656.png",
-        "desc": "https://www.pokemon.com/us/pokedex/656"
+        ]
     },
     {
         "id": 657,
@@ -11475,9 +10163,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/657.png",
-        "desc": "https://www.pokemon.com/us/pokedex/657"
+        ]
     },
     {
         "id": 658,
@@ -11493,9 +10179,7 @@
         "type": [
             "Water",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/658.png",
-        "desc": "https://www.pokemon.com/us/pokedex/658"
+        ]
     },
     {
         "id": 659,
@@ -11510,9 +10194,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/659.png",
-        "desc": "https://www.pokemon.com/us/pokedex/659"
+        ]
     },
     {
         "id": 660,
@@ -11528,9 +10210,7 @@
         "type": [
             "Normal",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/660.png",
-        "desc": "https://www.pokemon.com/us/pokedex/660"
+        ]
     },
     {
         "id": 661,
@@ -11546,9 +10226,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/661.png",
-        "desc": "https://www.pokemon.com/us/pokedex/661"
+        ]
     },
     {
         "id": 662,
@@ -11564,9 +10242,7 @@
         "type": [
             "Fire",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/662.png",
-        "desc": "https://www.pokemon.com/us/pokedex/662"
+        ]
     },
     {
         "id": 663,
@@ -11582,9 +10258,7 @@
         "type": [
             "Fire",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/663.png",
-        "desc": "https://www.pokemon.com/us/pokedex/663"
+        ]
     },
     {
         "id": 664,
@@ -11599,9 +10273,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/664.png",
-        "desc": "https://www.pokemon.com/us/pokedex/664"
+        ]
     },
     {
         "id": 665,
@@ -11616,9 +10288,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/665.png",
-        "desc": "https://www.pokemon.com/us/pokedex/665"
+        ]
     },
     {
         "id": 666,
@@ -11634,9 +10304,7 @@
         "type": [
             "Bug",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/666.png",
-        "desc": "https://www.pokemon.com/us/pokedex/666"
+        ]
     },
     {
         "id": 667,
@@ -11652,9 +10320,7 @@
         "type": [
             "Fire",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/667.png",
-        "desc": "https://www.pokemon.com/us/pokedex/667"
+        ]
     },
     {
         "id": 668,
@@ -11670,9 +10336,7 @@
         "type": [
             "Fire",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/668.png",
-        "desc": "https://www.pokemon.com/us/pokedex/668"
+        ]
     },
     {
         "id": 669,
@@ -11687,9 +10351,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/669.png",
-        "desc": "https://www.pokemon.com/us/pokedex/669"
+        ]
     },
     {
         "id": 670,
@@ -11704,9 +10366,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/670.png",
-        "desc": "https://www.pokemon.com/us/pokedex/670"
+        ]
     },
     {
         "id": 671,
@@ -11721,9 +10381,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/671.png",
-        "desc": "https://www.pokemon.com/us/pokedex/671"
+        ]
     },
     {
         "id": 672,
@@ -11738,9 +10396,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/672.png",
-        "desc": "https://www.pokemon.com/us/pokedex/672"
+        ]
     },
     {
         "id": 673,
@@ -11755,9 +10411,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/673.png",
-        "desc": "https://www.pokemon.com/us/pokedex/673"
+        ]
     },
     {
         "id": 674,
@@ -11772,9 +10426,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/674.png",
-        "desc": "https://www.pokemon.com/us/pokedex/674"
+        ]
     },
     {
         "id": 675,
@@ -11790,9 +10442,7 @@
         "type": [
             "Fighting",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/675.png",
-        "desc": "https://www.pokemon.com/us/pokedex/675"
+        ]
     },
     {
         "id": 676,
@@ -11807,9 +10457,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/676.png",
-        "desc": "https://www.pokemon.com/us/pokedex/676"
+        ]
     },
     {
         "id": 677,
@@ -11824,9 +10472,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/677.png",
-        "desc": "https://www.pokemon.com/us/pokedex/677"
+        ]
     },
     {
         "id": 678,
@@ -11841,9 +10487,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/678.png",
-        "desc": "https://www.pokemon.com/us/pokedex/678"
+        ]
     },
     {
         "id": 679,
@@ -11859,9 +10503,7 @@
         "type": [
             "Steel",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/679.png",
-        "desc": "https://www.pokemon.com/us/pokedex/679"
+        ]
     },
     {
         "id": 680,
@@ -11877,9 +10519,7 @@
         "type": [
             "Steel",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/680.png",
-        "desc": "https://www.pokemon.com/us/pokedex/680"
+        ]
     },
     {
         "id": 681,
@@ -11895,9 +10535,7 @@
         "type": [
             "Steel",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/681.png",
-        "desc": "https://www.pokemon.com/us/pokedex/681"
+        ]
     },
     {
         "id": 682,
@@ -11912,9 +10550,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/682.png",
-        "desc": "https://www.pokemon.com/us/pokedex/682"
+        ]
     },
     {
         "id": 683,
@@ -11929,9 +10565,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/683.png",
-        "desc": "https://www.pokemon.com/us/pokedex/683"
+        ]
     },
     {
         "id": 684,
@@ -11946,9 +10580,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/684.png",
-        "desc": "https://www.pokemon.com/us/pokedex/684"
+        ]
     },
     {
         "id": 685,
@@ -11963,9 +10595,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/685.png",
-        "desc": "https://www.pokemon.com/us/pokedex/685"
+        ]
     },
     {
         "id": 686,
@@ -11981,9 +10611,7 @@
         "type": [
             "Dark",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/686.png",
-        "desc": "https://www.pokemon.com/us/pokedex/686"
+        ]
     },
     {
         "id": 687,
@@ -11999,9 +10627,7 @@
         "type": [
             "Dark",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/687.png",
-        "desc": "https://www.pokemon.com/us/pokedex/687"
+        ]
     },
     {
         "id": 688,
@@ -12017,9 +10643,7 @@
         "type": [
             "Rock",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/688.png",
-        "desc": "https://www.pokemon.com/us/pokedex/688"
+        ]
     },
     {
         "id": 689,
@@ -12035,9 +10659,7 @@
         "type": [
             "Rock",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/689.png",
-        "desc": "https://www.pokemon.com/us/pokedex/689"
+        ]
     },
     {
         "id": 690,
@@ -12053,9 +10675,7 @@
         "type": [
             "Poison",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/690.png",
-        "desc": "https://www.pokemon.com/us/pokedex/690"
+        ]
     },
     {
         "id": 691,
@@ -12071,9 +10691,7 @@
         "type": [
             "Poison",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/691.png",
-        "desc": "https://www.pokemon.com/us/pokedex/691"
+        ]
     },
     {
         "id": 692,
@@ -12088,9 +10706,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/692.png",
-        "desc": "https://www.pokemon.com/us/pokedex/692"
+        ]
     },
     {
         "id": 693,
@@ -12105,9 +10721,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/693.png",
-        "desc": "https://www.pokemon.com/us/pokedex/693"
+        ]
     },
     {
         "id": 694,
@@ -12123,9 +10737,7 @@
         "type": [
             "Electric",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/694.png",
-        "desc": "https://www.pokemon.com/us/pokedex/694"
+        ]
     },
     {
         "id": 695,
@@ -12141,9 +10753,7 @@
         "type": [
             "Electric",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/695.png",
-        "desc": "https://www.pokemon.com/us/pokedex/695"
+        ]
     },
     {
         "id": 696,
@@ -12159,9 +10769,7 @@
         "type": [
             "Rock",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/696.png",
-        "desc": "https://www.pokemon.com/us/pokedex/696"
+        ]
     },
     {
         "id": 697,
@@ -12177,9 +10785,7 @@
         "type": [
             "Rock",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/697.png",
-        "desc": "https://www.pokemon.com/us/pokedex/697"
+        ]
     },
     {
         "id": 698,
@@ -12195,9 +10801,7 @@
         "type": [
             "Rock",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/698.png",
-        "desc": "https://www.pokemon.com/us/pokedex/698"
+        ]
     },
     {
         "id": 699,
@@ -12213,9 +10817,7 @@
         "type": [
             "Rock",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/699.png",
-        "desc": "https://www.pokemon.com/us/pokedex/699"
+        ]
     },
     {
         "id": 700,
@@ -12230,9 +10832,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/700.png",
-        "desc": "https://www.pokemon.com/us/pokedex/700"
+        ]
     },
     {
         "id": 701,
@@ -12248,9 +10848,7 @@
         "type": [
             "Fighting",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/701.png",
-        "desc": "https://www.pokemon.com/us/pokedex/701"
+        ]
     },
     {
         "id": 702,
@@ -12266,9 +10864,7 @@
         "type": [
             "Electric",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/702.png",
-        "desc": "https://www.pokemon.com/us/pokedex/702"
+        ]
     },
     {
         "id": 703,
@@ -12284,9 +10880,7 @@
         "type": [
             "Rock",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/703.png",
-        "desc": "https://www.pokemon.com/us/pokedex/703"
+        ]
     },
     {
         "id": 704,
@@ -12301,9 +10895,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/704.png",
-        "desc": "https://www.pokemon.com/us/pokedex/704"
+        ]
     },
     {
         "id": 705,
@@ -12318,9 +10910,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/705.png",
-        "desc": "https://www.pokemon.com/us/pokedex/705"
+        ]
     },
     {
         "id": 706,
@@ -12335,9 +10925,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/706.png",
-        "desc": "https://www.pokemon.com/us/pokedex/706"
+        ]
     },
     {
         "id": 707,
@@ -12353,9 +10941,7 @@
         "type": [
             "Steel",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/707.png",
-        "desc": "https://www.pokemon.com/us/pokedex/707"
+        ]
     },
     {
         "id": 708,
@@ -12371,9 +10957,7 @@
         "type": [
             "Ghost",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/708.png",
-        "desc": "https://www.pokemon.com/us/pokedex/708"
+        ]
     },
     {
         "id": 709,
@@ -12389,9 +10973,7 @@
         "type": [
             "Ghost",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/709.png",
-        "desc": "https://www.pokemon.com/us/pokedex/709"
+        ]
     },
     {
         "id": 710,
@@ -12407,9 +10989,7 @@
         "type": [
             "Ghost",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/710.png",
-        "desc": "https://www.pokemon.com/us/pokedex/710"
+        ]
     },
     {
         "id": 711,
@@ -12425,9 +11005,7 @@
         "type": [
             "Ghost",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/711.png",
-        "desc": "https://www.pokemon.com/us/pokedex/711"
+        ]
     },
     {
         "id": 712,
@@ -12442,9 +11020,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/712.png",
-        "desc": "https://www.pokemon.com/us/pokedex/712"
+        ]
     },
     {
         "id": 713,
@@ -12459,9 +11035,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/713.png",
-        "desc": "https://www.pokemon.com/us/pokedex/713"
+        ]
     },
     {
         "id": 714,
@@ -12477,9 +11051,7 @@
         "type": [
             "Flying",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/714.png",
-        "desc": "https://www.pokemon.com/us/pokedex/714"
+        ]
     },
     {
         "id": 715,
@@ -12495,9 +11067,7 @@
         "type": [
             "Flying",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/715.png",
-        "desc": "https://www.pokemon.com/us/pokedex/715"
+        ]
     },
     {
         "id": 716,
@@ -12512,9 +11082,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/716.png",
-        "desc": "https://www.pokemon.com/us/pokedex/716"
+        ]
     },
     {
         "id": 717,
@@ -12530,9 +11098,7 @@
         "type": [
             "Dark",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/717.png",
-        "desc": "https://www.pokemon.com/us/pokedex/717"
+        ]
     },
     {
         "id": 718,
@@ -12548,9 +11114,7 @@
         "type": [
             "Dragon",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/718.png",
-        "desc": "https://www.pokemon.com/us/pokedex/718"
+        ]
     },
     {
         "id": 719,
@@ -12566,9 +11130,7 @@
         "type": [
             "Rock",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/719.png",
-        "desc": "https://www.pokemon.com/us/pokedex/719"
+        ]
     },
     {
         "id": 720,
@@ -12584,9 +11146,7 @@
         "type": [
             "Psychic",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/720.png",
-        "desc": "https://www.pokemon.com/us/pokedex/720"
+        ]
     },
     {
         "id": 721,
@@ -12602,9 +11162,7 @@
         "type": [
             "Fire",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/721.png",
-        "desc": "https://www.pokemon.com/us/pokedex/721"
+        ]
     },
     {
         "id": 722,
@@ -12620,9 +11178,7 @@
         "type": [
             "Grass",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/722.png",
-        "desc": "https://www.pokemon.com/us/pokedex/722"
+        ]
     },
     {
         "id": 723,
@@ -12638,9 +11194,7 @@
         "type": [
             "Grass",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/723.png",
-        "desc": "https://www.pokemon.com/us/pokedex/723"
+        ]
     },
     {
         "id": 724,
@@ -12656,9 +11210,7 @@
         "type": [
             "Grass",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/724.png",
-        "desc": "https://www.pokemon.com/us/pokedex/724"
+        ]
     },
     {
         "id": 725,
@@ -12673,9 +11225,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/725.png",
-        "desc": "https://www.pokemon.com/us/pokedex/725"
+        ]
     },
     {
         "id": 726,
@@ -12690,9 +11240,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/726.png",
-        "desc": "https://www.pokemon.com/us/pokedex/726"
+        ]
     },
     {
         "id": 727,
@@ -12708,9 +11256,7 @@
         "type": [
             "Fire",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/727.png",
-        "desc": "https://www.pokemon.com/us/pokedex/727"
+        ]
     },
     {
         "id": 728,
@@ -12725,9 +11271,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/728.png",
-        "desc": "https://www.pokemon.com/us/pokedex/728"
+        ]
     },
     {
         "id": 729,
@@ -12742,9 +11286,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/729.png",
-        "desc": "https://www.pokemon.com/us/pokedex/729"
+        ]
     },
     {
         "id": 730,
@@ -12760,9 +11302,7 @@
         "type": [
             "Water",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/730.png",
-        "desc": "https://www.pokemon.com/us/pokedex/730"
+        ]
     },
     {
         "id": 731,
@@ -12778,9 +11318,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/731.png",
-        "desc": "https://www.pokemon.com/us/pokedex/731"
+        ]
     },
     {
         "id": 732,
@@ -12796,9 +11334,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/732.png",
-        "desc": "https://www.pokemon.com/us/pokedex/732"
+        ]
     },
     {
         "id": 733,
@@ -12814,9 +11350,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/733.png",
-        "desc": "https://www.pokemon.com/us/pokedex/733"
+        ]
     },
     {
         "id": 734,
@@ -12831,9 +11365,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/734.png",
-        "desc": "https://www.pokemon.com/us/pokedex/734"
+        ]
     },
     {
         "id": 735,
@@ -12848,9 +11380,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/735.png",
-        "desc": "https://www.pokemon.com/us/pokedex/735"
+        ]
     },
     {
         "id": 736,
@@ -12865,9 +11395,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/736.png",
-        "desc": "https://www.pokemon.com/us/pokedex/736"
+        ]
     },
     {
         "id": 737,
@@ -12883,9 +11411,7 @@
         "type": [
             "Bug",
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/737.png",
-        "desc": "https://www.pokemon.com/us/pokedex/737"
+        ]
     },
     {
         "id": 738,
@@ -12901,9 +11427,7 @@
         "type": [
             "Bug",
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/738.png",
-        "desc": "https://www.pokemon.com/us/pokedex/738"
+        ]
     },
     {
         "id": 739,
@@ -12918,9 +11442,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/739.png",
-        "desc": "https://www.pokemon.com/us/pokedex/739"
+        ]
     },
     {
         "id": 740,
@@ -12936,9 +11458,7 @@
         "type": [
             "Fighting",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/740.png",
-        "desc": "https://www.pokemon.com/us/pokedex/740"
+        ]
     },
     {
         "id": 741,
@@ -12954,9 +11474,7 @@
         "type": [
             "Fire",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/741.png",
-        "desc": "https://www.pokemon.com/us/pokedex/741"
+        ]
     },
     {
         "id": 742,
@@ -12972,9 +11490,7 @@
         "type": [
             "Bug",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/742.png",
-        "desc": "https://www.pokemon.com/us/pokedex/742"
+        ]
     },
     {
         "id": 743,
@@ -12990,9 +11506,7 @@
         "type": [
             "Bug",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/743.png",
-        "desc": "https://www.pokemon.com/us/pokedex/743"
+        ]
     },
     {
         "id": 744,
@@ -13007,9 +11521,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/744.png",
-        "desc": "https://www.pokemon.com/us/pokedex/744"
+        ]
     },
     {
         "id": 745,
@@ -13024,9 +11536,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/745.png",
-        "desc": "https://www.pokemon.com/us/pokedex/745"
+        ]
     },
     {
         "id": 746,
@@ -13041,9 +11551,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/746.png",
-        "desc": "https://www.pokemon.com/us/pokedex/746"
+        ]
     },
     {
         "id": 747,
@@ -13059,9 +11567,7 @@
         "type": [
             "Poison",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/747.png",
-        "desc": "https://www.pokemon.com/us/pokedex/747"
+        ]
     },
     {
         "id": 748,
@@ -13077,9 +11583,7 @@
         "type": [
             "Poison",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/748.png",
-        "desc": "https://www.pokemon.com/us/pokedex/748"
+        ]
     },
     {
         "id": 749,
@@ -13094,9 +11598,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/749.png",
-        "desc": "https://www.pokemon.com/us/pokedex/749"
+        ]
     },
     {
         "id": 750,
@@ -13111,9 +11613,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/750.png",
-        "desc": "https://www.pokemon.com/us/pokedex/750"
+        ]
     },
     {
         "id": 751,
@@ -13129,9 +11629,7 @@
         "type": [
             "Water",
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/751.png",
-        "desc": "https://www.pokemon.com/us/pokedex/751"
+        ]
     },
     {
         "id": 752,
@@ -13147,9 +11645,7 @@
         "type": [
             "Water",
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/752.png",
-        "desc": "https://www.pokemon.com/us/pokedex/752"
+        ]
     },
     {
         "id": 753,
@@ -13164,9 +11660,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/753.png",
-        "desc": "https://www.pokemon.com/us/pokedex/753"
+        ]
     },
     {
         "id": 754,
@@ -13181,9 +11675,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/754.png",
-        "desc": "https://www.pokemon.com/us/pokedex/754"
+        ]
     },
     {
         "id": 755,
@@ -13199,9 +11691,7 @@
         "type": [
             "Grass",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/755.png",
-        "desc": "https://www.pokemon.com/us/pokedex/755"
+        ]
     },
     {
         "id": 756,
@@ -13217,9 +11707,7 @@
         "type": [
             "Grass",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/756.png",
-        "desc": "https://www.pokemon.com/us/pokedex/756"
+        ]
     },
     {
         "id": 757,
@@ -13235,9 +11723,7 @@
         "type": [
             "Poison",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/757.png",
-        "desc": "https://www.pokemon.com/us/pokedex/757"
+        ]
     },
     {
         "id": 758,
@@ -13253,9 +11739,7 @@
         "type": [
             "Poison",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/758.png",
-        "desc": "https://www.pokemon.com/us/pokedex/758"
+        ]
     },
     {
         "id": 759,
@@ -13271,9 +11755,7 @@
         "type": [
             "Normal",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/759.png",
-        "desc": "https://www.pokemon.com/us/pokedex/759"
+        ]
     },
     {
         "id": 760,
@@ -13289,9 +11771,7 @@
         "type": [
             "Normal",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/760.png",
-        "desc": "https://www.pokemon.com/us/pokedex/760"
+        ]
     },
     {
         "id": 761,
@@ -13306,9 +11786,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/761.png",
-        "desc": "https://www.pokemon.com/us/pokedex/761"
+        ]
     },
     {
         "id": 762,
@@ -13323,9 +11801,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/762.png",
-        "desc": "https://www.pokemon.com/us/pokedex/762"
+        ]
     },
     {
         "id": 763,
@@ -13340,9 +11816,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/763.png",
-        "desc": "https://www.pokemon.com/us/pokedex/763"
+        ]
     },
     {
         "id": 764,
@@ -13357,9 +11831,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/764.png",
-        "desc": "https://www.pokemon.com/us/pokedex/764"
+        ]
     },
     {
         "id": 765,
@@ -13375,9 +11847,7 @@
         "type": [
             "Normal",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/765.png",
-        "desc": "https://www.pokemon.com/us/pokedex/765"
+        ]
     },
     {
         "id": 766,
@@ -13392,9 +11862,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/766.png",
-        "desc": "https://www.pokemon.com/us/pokedex/766"
+        ]
     },
     {
         "id": 767,
@@ -13410,9 +11878,7 @@
         "type": [
             "Bug",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/767.png",
-        "desc": "https://www.pokemon.com/us/pokedex/767"
+        ]
     },
     {
         "id": 768,
@@ -13428,9 +11894,7 @@
         "type": [
             "Bug",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/768.png",
-        "desc": "https://www.pokemon.com/us/pokedex/768"
+        ]
     },
     {
         "id": 769,
@@ -13446,9 +11910,7 @@
         "type": [
             "Ghost",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/769.png",
-        "desc": "https://www.pokemon.com/us/pokedex/769"
+        ]
     },
     {
         "id": 770,
@@ -13464,9 +11926,7 @@
         "type": [
             "Ghost",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/770.png",
-        "desc": "https://www.pokemon.com/us/pokedex/770"
+        ]
     },
     {
         "id": 771,
@@ -13481,9 +11941,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/771.png",
-        "desc": "https://www.pokemon.com/us/pokedex/771"
+        ]
     },
     {
         "id": 772,
@@ -13498,9 +11956,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/772.png",
-        "desc": "https://www.pokemon.com/us/pokedex/772"
+        ]
     },
     {
         "id": 773,
@@ -13515,9 +11971,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/773.png",
-        "desc": "https://www.pokemon.com/us/pokedex/773"
+        ]
     },
     {
         "id": 774,
@@ -13533,9 +11987,7 @@
         "type": [
             "Rock",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/774.png",
-        "desc": "https://www.pokemon.com/us/pokedex/774"
+        ]
     },
     {
         "id": 775,
@@ -13550,9 +12002,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/775.png",
-        "desc": "https://www.pokemon.com/us/pokedex/775"
+        ]
     },
     {
         "id": 776,
@@ -13568,9 +12018,7 @@
         "type": [
             "Fire",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/776.png",
-        "desc": "https://www.pokemon.com/us/pokedex/776"
+        ]
     },
     {
         "id": 777,
@@ -13586,9 +12034,7 @@
         "type": [
             "Electric",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/777.png",
-        "desc": "https://www.pokemon.com/us/pokedex/777"
+        ]
     },
     {
         "id": 778,
@@ -13604,9 +12050,7 @@
         "type": [
             "Ghost",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/778.png",
-        "desc": "https://www.pokemon.com/us/pokedex/778"
+        ]
     },
     {
         "id": 779,
@@ -13622,9 +12066,7 @@
         "type": [
             "Water",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/779.png",
-        "desc": "https://www.pokemon.com/us/pokedex/779"
+        ]
     },
     {
         "id": 780,
@@ -13640,9 +12082,7 @@
         "type": [
             "Normal",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/780.png",
-        "desc": "https://www.pokemon.com/us/pokedex/780"
+        ]
     },
     {
         "id": 781,
@@ -13658,9 +12098,7 @@
         "type": [
             "Ghost",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/781.png",
-        "desc": "https://www.pokemon.com/us/pokedex/781"
+        ]
     },
     {
         "id": 782,
@@ -13675,9 +12113,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/782.png",
-        "desc": "https://www.pokemon.com/us/pokedex/782"
+        ]
     },
     {
         "id": 783,
@@ -13693,9 +12129,7 @@
         "type": [
             "Dragon",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/783.png",
-        "desc": "https://www.pokemon.com/us/pokedex/783"
+        ]
     },
     {
         "id": 784,
@@ -13711,9 +12145,7 @@
         "type": [
             "Dragon",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/784.png",
-        "desc": "https://www.pokemon.com/us/pokedex/784"
+        ]
     },
     {
         "id": 785,
@@ -13729,9 +12161,7 @@
         "type": [
             "Electric",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/785.png",
-        "desc": "https://www.pokemon.com/us/pokedex/785"
+        ]
     },
     {
         "id": 786,
@@ -13747,9 +12177,7 @@
         "type": [
             "Psychic",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/786.png",
-        "desc": "https://www.pokemon.com/us/pokedex/786"
+        ]
     },
     {
         "id": 787,
@@ -13765,9 +12193,7 @@
         "type": [
             "Grass",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/787.png",
-        "desc": "https://www.pokemon.com/us/pokedex/787"
+        ]
     },
     {
         "id": 788,
@@ -13783,9 +12209,7 @@
         "type": [
             "Water",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/788.png",
-        "desc": "https://www.pokemon.com/us/pokedex/788"
+        ]
     },
     {
         "id": 789,
@@ -13800,9 +12224,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/789.png",
-        "desc": "https://www.pokemon.com/us/pokedex/789"
+        ]
     },
     {
         "id": 790,
@@ -13817,9 +12239,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/790.png",
-        "desc": "https://www.pokemon.com/us/pokedex/790"
+        ]
     },
     {
         "id": 791,
@@ -13835,9 +12255,7 @@
         "type": [
             "Psychic",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/791.png",
-        "desc": "https://www.pokemon.com/us/pokedex/791"
+        ]
     },
     {
         "id": 792,
@@ -13853,9 +12271,7 @@
         "type": [
             "Psychic",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/792.png",
-        "desc": "https://www.pokemon.com/us/pokedex/792"
+        ]
     },
     {
         "id": 793,
@@ -13871,9 +12287,7 @@
         "type": [
             "Rock",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/793.png",
-        "desc": "https://www.pokemon.com/us/pokedex/793"
+        ]
     },
     {
         "id": 794,
@@ -13889,9 +12303,7 @@
         "type": [
             "Bug",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/794.png",
-        "desc": "https://www.pokemon.com/us/pokedex/794"
+        ]
     },
     {
         "id": 795,
@@ -13907,9 +12319,7 @@
         "type": [
             "Bug",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/795.png",
-        "desc": "https://www.pokemon.com/us/pokedex/795"
+        ]
     },
     {
         "id": 796,
@@ -13924,9 +12334,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/796.png",
-        "desc": "https://www.pokemon.com/us/pokedex/796"
+        ]
     },
     {
         "id": 797,
@@ -13942,9 +12350,7 @@
         "type": [
             "Steel",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/797.png",
-        "desc": "https://www.pokemon.com/us/pokedex/797"
+        ]
     },
     {
         "id": 798,
@@ -13960,9 +12366,7 @@
         "type": [
             "Grass",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/798.png",
-        "desc": "https://www.pokemon.com/us/pokedex/798"
+        ]
     },
     {
         "id": 799,
@@ -13978,9 +12382,7 @@
         "type": [
             "Dark",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/799.png",
-        "desc": "https://www.pokemon.com/us/pokedex/799"
+        ]
     },
     {
         "id": 800,
@@ -13995,9 +12397,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png",
-        "desc": "https://www.pokemon.com/us/pokedex/800"
+        ]
     },
     {
         "id": 801,
@@ -14013,9 +12413,7 @@
         "type": [
             "Steel",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/801.png",
-        "desc": "https://www.pokemon.com/us/pokedex/801"
+        ]
     },
     {
         "id": 802,
@@ -14031,9 +12429,7 @@
         "type": [
             "Fighting",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/802.png",
-        "desc": "https://www.pokemon.com/us/pokedex/802"
+        ]
     },
     {
         "id": 803,
@@ -14048,9 +12444,7 @@
         },
         "type": [
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/803.png",
-        "desc": "https://www.pokemon.com/us/pokedex/803"
+        ]
     },
     {
         "id": 804,
@@ -14066,9 +12460,7 @@
         "type": [
             "Poison",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/804.png",
-        "desc": "https://www.pokemon.com/us/pokedex/804"
+        ]
     },
     {
         "id": 805,
@@ -14084,9 +12476,7 @@
         "type": [
             "Rock",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/805.png",
-        "desc": "https://www.pokemon.com/us/pokedex/805"
+        ]
     },
     {
         "id": 806,
@@ -14102,9 +12492,7 @@
         "type": [
             "Fire",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/806.png",
-        "desc": "https://www.pokemon.com/us/pokedex/806"
+        ]
     },
     {
         "id": 807,
@@ -14119,9 +12507,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png",
-        "desc": "https://www.pokemon.com/us/pokedex/807"
+        ]
     },
     {
         "id": 808,
@@ -14136,9 +12522,7 @@
         },
         "type": [
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/808.png",
-        "desc": "https://www.pokemon.com/us/pokedex/808"
+        ]
     },
     {
         "id": 809,
@@ -14153,9 +12537,7 @@
         },
         "type": [
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/809.png",
-        "desc": "https://www.pokemon.com/us/pokedex/809"
+        ]
     },
     {
         "id": 810,
@@ -14170,9 +12552,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/810.png",
-        "desc": "https://www.pokemon.com/us/pokedex/810"
+        ]
     },
     {
         "id": 811,
@@ -14187,9 +12567,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/811.png",
-        "desc": "https://www.pokemon.com/us/pokedex/811"
+        ]
     },
     {
         "id": 812,
@@ -14204,9 +12582,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/812.png",
-        "desc": "https://www.pokemon.com/us/pokedex/812"
+        ]
     },
     {
         "id": 813,
@@ -14221,9 +12597,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/813.png",
-        "desc": "https://www.pokemon.com/us/pokedex/813"
+        ]
     },
     {
         "id": 814,
@@ -14238,9 +12612,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/814.png",
-        "desc": "https://www.pokemon.com/us/pokedex/814"
+        ]
     },
     {
         "id": 815,
@@ -14255,9 +12627,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/815.png",
-        "desc": "https://www.pokemon.com/us/pokedex/815"
+        ]
     },
     {
         "id": 816,
@@ -14272,9 +12642,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/816.png",
-        "desc": "https://www.pokemon.com/us/pokedex/816"
+        ]
     },
     {
         "id": 817,
@@ -14289,9 +12657,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/817.png",
-        "desc": "https://www.pokemon.com/us/pokedex/817"
+        ]
     },
     {
         "id": 818,
@@ -14306,9 +12672,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/818.png",
-        "desc": "https://www.pokemon.com/us/pokedex/818"
+        ]
     },
     {
         "id": 819,
@@ -14323,9 +12687,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/819.png",
-        "desc": "https://www.pokemon.com/us/pokedex/819"
+        ]
     },
     {
         "id": 820,
@@ -14340,9 +12702,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/820.png",
-        "desc": "https://www.pokemon.com/us/pokedex/820"
+        ]
     },
     {
         "id": 821,
@@ -14357,9 +12717,7 @@
         },
         "type": [
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/821.png",
-        "desc": "https://www.pokemon.com/us/pokedex/821"
+        ]
     },
     {
         "id": 822,
@@ -14374,9 +12732,7 @@
         },
         "type": [
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/822.png",
-        "desc": "https://www.pokemon.com/us/pokedex/822"
+        ]
     },
     {
         "id": 823,
@@ -14392,9 +12748,7 @@
         "type": [
             "Flying",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/823.png",
-        "desc": "https://www.pokemon.com/us/pokedex/823"
+        ]
     },
     {
         "id": 824,
@@ -14409,9 +12763,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/824.png",
-        "desc": "https://www.pokemon.com/us/pokedex/824"
+        ]
     },
     {
         "id": 825,
@@ -14427,9 +12779,7 @@
         "type": [
             "Bug",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/825.png",
-        "desc": "https://www.pokemon.com/us/pokedex/825"
+        ]
     },
     {
         "id": 826,
@@ -14445,9 +12795,7 @@
         "type": [
             "Bug",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/826.png",
-        "desc": "https://www.pokemon.com/us/pokedex/826"
+        ]
     },
     {
         "id": 827,
@@ -14462,9 +12810,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/827.png",
-        "desc": "https://www.pokemon.com/us/pokedex/827"
+        ]
     },
     {
         "id": 828,
@@ -14479,9 +12825,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/828.png",
-        "desc": "https://www.pokemon.com/us/pokedex/828"
+        ]
     },
     {
         "id": 829,
@@ -14496,9 +12840,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/829.png",
-        "desc": "https://www.pokemon.com/us/pokedex/829"
+        ]
     },
     {
         "id": 830,
@@ -14513,9 +12855,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/830.png",
-        "desc": "https://www.pokemon.com/us/pokedex/830"
+        ]
     },
     {
         "id": 831,
@@ -14530,9 +12870,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/831.png",
-        "desc": "https://www.pokemon.com/us/pokedex/831"
+        ]
     },
     {
         "id": 832,
@@ -14547,9 +12885,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/832.png",
-        "desc": "https://www.pokemon.com/us/pokedex/832"
+        ]
     },
     {
         "id": 833,
@@ -14564,9 +12900,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/833.png",
-        "desc": "https://www.pokemon.com/us/pokedex/833"
+        ]
     },
     {
         "id": 834,
@@ -14582,9 +12916,7 @@
         "type": [
             "Water",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/834.png",
-        "desc": "https://www.pokemon.com/us/pokedex/834"
+        ]
     },
     {
         "id": 835,
@@ -14599,9 +12931,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/835.png",
-        "desc": "https://www.pokemon.com/us/pokedex/835"
+        ]
     },
     {
         "id": 836,
@@ -14616,9 +12946,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/836.png",
-        "desc": "https://www.pokemon.com/us/pokedex/836"
+        ]
     },
     {
         "id": 837,
@@ -14633,9 +12961,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/837.png",
-        "desc": "https://www.pokemon.com/us/pokedex/837"
+        ]
     },
     {
         "id": 838,
@@ -14651,9 +12977,7 @@
         "type": [
             "Rock",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/838.png",
-        "desc": "https://www.pokemon.com/us/pokedex/838"
+        ]
     },
     {
         "id": 839,
@@ -14669,9 +12993,7 @@
         "type": [
             "Rock",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/839.png",
-        "desc": "https://www.pokemon.com/us/pokedex/839"
+        ]
     },
     {
         "id": 840,
@@ -14687,9 +13009,7 @@
         "type": [
             "Grass",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/840.png",
-        "desc": "https://www.pokemon.com/us/pokedex/840"
+        ]
     },
     {
         "id": 841,
@@ -14705,9 +13025,7 @@
         "type": [
             "Grass",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/841.png",
-        "desc": "https://www.pokemon.com/us/pokedex/841"
+        ]
     },
     {
         "id": 842,
@@ -14723,9 +13041,7 @@
         "type": [
             "Grass",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/842.png",
-        "desc": "https://www.pokemon.com/us/pokedex/842"
+        ]
     },
     {
         "id": 843,
@@ -14740,9 +13056,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/843.png",
-        "desc": "https://www.pokemon.com/us/pokedex/843"
+        ]
     },
     {
         "id": 844,
@@ -14757,9 +13071,7 @@
         },
         "type": [
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/844.png",
-        "desc": "https://www.pokemon.com/us/pokedex/844"
+        ]
     },
     {
         "id": 845,
@@ -14775,9 +13087,7 @@
         "type": [
             "Flying",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/845.png",
-        "desc": "https://www.pokemon.com/us/pokedex/845"
+        ]
     },
     {
         "id": 846,
@@ -14792,9 +13102,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/846.png",
-        "desc": "https://www.pokemon.com/us/pokedex/846"
+        ]
     },
     {
         "id": 847,
@@ -14809,9 +13117,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/847.png",
-        "desc": "https://www.pokemon.com/us/pokedex/847"
+        ]
     },
     {
         "id": 848,
@@ -14827,9 +13133,7 @@
         "type": [
             "Electric",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/848.png",
-        "desc": "https://www.pokemon.com/us/pokedex/848"
+        ]
     },
     {
         "id": 849,
@@ -14845,9 +13149,7 @@
         "type": [
             "Electric",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/849.png",
-        "desc": "https://www.pokemon.com/us/pokedex/849"
+        ]
     },
     {
         "id": 850,
@@ -14863,9 +13165,7 @@
         "type": [
             "Fire",
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/850.png",
-        "desc": "https://www.pokemon.com/us/pokedex/850"
+        ]
     },
     {
         "id": 851,
@@ -14881,9 +13181,7 @@
         "type": [
             "Fire",
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/851.png",
-        "desc": "https://www.pokemon.com/us/pokedex/851"
+        ]
     },
     {
         "id": 852,
@@ -14898,9 +13196,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/852.png",
-        "desc": "https://www.pokemon.com/us/pokedex/852"
+        ]
     },
     {
         "id": 853,
@@ -14915,9 +13211,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/853.png",
-        "desc": "https://www.pokemon.com/us/pokedex/853"
+        ]
     },
     {
         "id": 854,
@@ -14932,9 +13226,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/854.png",
-        "desc": "https://www.pokemon.com/us/pokedex/854"
+        ]
     },
     {
         "id": 855,
@@ -14949,9 +13241,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/855.png",
-        "desc": "https://www.pokemon.com/us/pokedex/855"
+        ]
     },
     {
         "id": 856,
@@ -14966,9 +13256,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/856.png",
-        "desc": "https://www.pokemon.com/us/pokedex/856"
+        ]
     },
     {
         "id": 857,
@@ -14983,9 +13271,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/857.png",
-        "desc": "https://www.pokemon.com/us/pokedex/857"
+        ]
     },
     {
         "id": 858,
@@ -15001,9 +13287,7 @@
         "type": [
             "Psychic",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/858.png",
-        "desc": "https://www.pokemon.com/us/pokedex/858"
+        ]
     },
     {
         "id": 859,
@@ -15019,9 +13303,7 @@
         "type": [
             "Dark",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/859.png",
-        "desc": "https://www.pokemon.com/us/pokedex/859"
+        ]
     },
     {
         "id": 860,
@@ -15037,9 +13319,7 @@
         "type": [
             "Dark",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/860.png",
-        "desc": "https://www.pokemon.com/us/pokedex/860"
+        ]
     },
     {
         "id": 861,
@@ -15055,9 +13335,7 @@
         "type": [
             "Dark",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/861.png",
-        "desc": "https://www.pokemon.com/us/pokedex/861"
+        ]
     },
     {
         "id": 862,
@@ -15073,9 +13351,7 @@
         "type": [
             "Dark",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/862.png",
-        "desc": "https://www.pokemon.com/us/pokedex/862"
+        ]
     },
     {
         "id": 863,
@@ -15090,9 +13366,7 @@
         },
         "type": [
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/863.png",
-        "desc": "https://www.pokemon.com/us/pokedex/863"
+        ]
     },
     {
         "id": 864,
@@ -15107,9 +13381,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/864.png",
-        "desc": "https://www.pokemon.com/us/pokedex/864"
+        ]
     },
     {
         "id": 865,
@@ -15124,9 +13396,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/865.png",
-        "desc": "https://www.pokemon.com/us/pokedex/865"
+        ]
     },
     {
         "id": 866,
@@ -15142,9 +13412,7 @@
         "type": [
             "Ice",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/866.png",
-        "desc": "https://www.pokemon.com/us/pokedex/866"
+        ]
     },
     {
         "id": 867,
@@ -15160,9 +13428,7 @@
         "type": [
             "Ground",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/867.png",
-        "desc": "https://www.pokemon.com/us/pokedex/867"
+        ]
     },
     {
         "id": 868,
@@ -15177,9 +13443,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/868.png",
-        "desc": "https://www.pokemon.com/us/pokedex/868"
+        ]
     },
     {
         "id": 869,
@@ -15194,9 +13458,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/869.png",
-        "desc": "https://www.pokemon.com/us/pokedex/869"
+        ]
     },
     {
         "id": 870,
@@ -15211,9 +13473,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/870.png",
-        "desc": "https://www.pokemon.com/us/pokedex/870"
+        ]
     },
     {
         "id": 871,
@@ -15228,9 +13488,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/871.png",
-        "desc": "https://www.pokemon.com/us/pokedex/871"
+        ]
     },
     {
         "id": 872,
@@ -15246,9 +13504,7 @@
         "type": [
             "Ice",
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/872.png",
-        "desc": "https://www.pokemon.com/us/pokedex/872"
+        ]
     },
     {
         "id": 873,
@@ -15264,9 +13520,7 @@
         "type": [
             "Ice",
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/873.png",
-        "desc": "https://www.pokemon.com/us/pokedex/873"
+        ]
     },
     {
         "id": 874,
@@ -15281,9 +13535,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/874.png",
-        "desc": "https://www.pokemon.com/us/pokedex/874"
+        ]
     },
     {
         "id": 875,
@@ -15298,9 +13550,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/875.png",
-        "desc": "https://www.pokemon.com/us/pokedex/875"
+        ]
     },
     {
         "id": 876,
@@ -15316,9 +13566,7 @@
         "type": [
             "Psychic",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/876.png",
-        "desc": "https://www.pokemon.com/us/pokedex/876"
+        ]
     },
     {
         "id": 877,
@@ -15334,9 +13582,7 @@
         "type": [
             "Electric",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/877.png",
-        "desc": "https://www.pokemon.com/us/pokedex/877"
+        ]
     },
     {
         "id": 878,
@@ -15351,9 +13597,7 @@
         },
         "type": [
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/878.png",
-        "desc": "https://www.pokemon.com/us/pokedex/878"
+        ]
     },
     {
         "id": 879,
@@ -15368,9 +13612,7 @@
         },
         "type": [
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/879.png",
-        "desc": "https://www.pokemon.com/us/pokedex/879"
+        ]
     },
     {
         "id": 880,
@@ -15386,9 +13628,7 @@
         "type": [
             "Electric",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/880.png",
-        "desc": "https://www.pokemon.com/us/pokedex/880"
+        ]
     },
     {
         "id": 881,
@@ -15404,9 +13644,7 @@
         "type": [
             "Electric",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/881.png",
-        "desc": "https://www.pokemon.com/us/pokedex/881"
+        ]
     },
     {
         "id": 882,
@@ -15422,9 +13660,7 @@
         "type": [
             "Water",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/882.png",
-        "desc": "https://www.pokemon.com/us/pokedex/882"
+        ]
     },
     {
         "id": 883,
@@ -15440,9 +13676,7 @@
         "type": [
             "Water",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/883.png",
-        "desc": "https://www.pokemon.com/us/pokedex/883"
+        ]
     },
     {
         "id": 884,
@@ -15458,9 +13692,7 @@
         "type": [
             "Steel",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/884.png",
-        "desc": "https://www.pokemon.com/us/pokedex/884"
+        ]
     },
     {
         "id": 885,
@@ -15476,9 +13708,7 @@
         "type": [
             "Dragon",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/885.png",
-        "desc": "https://www.pokemon.com/us/pokedex/885"
+        ]
     },
     {
         "id": 886,
@@ -15494,9 +13724,7 @@
         "type": [
             "Dragon",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/886.png",
-        "desc": "https://www.pokemon.com/us/pokedex/886"
+        ]
     },
     {
         "id": 887,
@@ -15512,9 +13740,7 @@
         "type": [
             "Dragon",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/887.png",
-        "desc": "https://www.pokemon.com/us/pokedex/887"
+        ]
     },
     {
         "id": 888,
@@ -15529,9 +13755,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/888.png",
-        "desc": "https://www.pokemon.com/us/pokedex/888"
+        ]
     },
     {
         "id": 889,
@@ -15546,9 +13770,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/889.png",
-        "desc": "https://www.pokemon.com/us/pokedex/889"
+        ]
     },
     {
         "id": 890,
@@ -15564,9 +13786,7 @@
         "type": [
             "Poison",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/890.png",
-        "desc": "https://www.pokemon.com/us/pokedex/890"
+        ]
     },
     {
         "id": 891,
@@ -15581,9 +13801,7 @@
         },
         "type": [
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/891.png",
-        "desc": "https://www.pokemon.com/us/pokedex/891"
+        ]
     },
     {
         "id": 892,
@@ -15599,9 +13817,7 @@
         "type": [
             "Fighting",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/892.png",
-        "desc": "https://www.pokemon.com/us/pokedex/892"
+        ]
     },
     {
         "id": 893,
@@ -15617,9 +13833,7 @@
         "type": [
             "Dark",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/893.png",
-        "desc": "https://www.pokemon.com/us/pokedex/893"
+        ]
     },
     {
         "id": 894,
@@ -15634,9 +13848,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/894.png",
-        "desc": "https://www.pokemon.com/us/pokedex/894"
+        ]
     },
     {
         "id": 895,
@@ -15651,9 +13863,7 @@
         },
         "type": [
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/895.png",
-        "desc": "https://www.pokemon.com/us/pokedex/895"
+        ]
     },
     {
         "id": 896,
@@ -15668,9 +13878,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/896.png",
-        "desc": "https://www.pokemon.com/us/pokedex/896"
+        ]
     },
     {
         "id": 897,
@@ -15685,9 +13893,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/897.png",
-        "desc": "https://www.pokemon.com/us/pokedex/897"
+        ]
     },
     {
         "id": 898,
@@ -15703,9 +13909,7 @@
         "type": [
             "Psychic",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/898.png",
-        "desc": "https://www.pokemon.com/us/pokedex/898"
+        ]
     },
     {
         "id": 899,
@@ -15721,9 +13925,7 @@
         "type": [
             "Normal",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/899.png",
-        "desc": "https://www.pokemon.com/us/pokedex/899"
+        ]
     },
     {
         "id": 900,
@@ -15739,9 +13941,7 @@
         "type": [
             "Bug",
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/900.png",
-        "desc": "https://www.pokemon.com/us/pokedex/900"
+        ]
     },
     {
         "id": 901,
@@ -15757,9 +13957,7 @@
         "type": [
             "Ground",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/901.png",
-        "desc": "https://www.pokemon.com/us/pokedex/901"
+        ]
     },
     {
         "id": 902,
@@ -15775,9 +13973,7 @@
         "type": [
             "Water",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/902.png",
-        "desc": "https://www.pokemon.com/us/pokedex/902"
+        ]
     },
     {
         "id": 903,
@@ -15793,9 +13989,7 @@
         "type": [
             "Poison",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/903.png",
-        "desc": "https://www.pokemon.com/us/pokedex/903"
+        ]
     },
     {
         "id": 904,
@@ -15811,9 +14005,7 @@
         "type": [
             "Dark",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/904.png",
-        "desc": "https://www.pokemon.com/us/pokedex/904"
+        ]
     },
     {
         "id": 905,
@@ -15829,9 +14021,7 @@
         "type": [
             "Fairy",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/905.png",
-        "desc": "https://www.pokemon.com/us/pokedex/905"
+        ]
     },
     {
         "id": 906,
@@ -15846,9 +14036,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/906.png",
-        "desc": "https://www.pokemon.com/us/pokedex/906"
+        ]
     },
     {
         "id": 907,
@@ -15863,9 +14051,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/907.png",
-        "desc": "https://www.pokemon.com/us/pokedex/907"
+        ]
     },
     {
         "id": 908,
@@ -15881,9 +14067,7 @@
         "type": [
             "Grass",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/908.png",
-        "desc": "https://www.pokemon.com/us/pokedex/908"
+        ]
     },
     {
         "id": 909,
@@ -15898,9 +14082,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/909.png",
-        "desc": "https://www.pokemon.com/us/pokedex/909"
+        ]
     },
     {
         "id": 910,
@@ -15915,9 +14097,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/910.png",
-        "desc": "https://www.pokemon.com/us/pokedex/910"
+        ]
     },
     {
         "id": 911,
@@ -15933,9 +14113,7 @@
         "type": [
             "Fire",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/911.png",
-        "desc": "https://www.pokemon.com/us/pokedex/911"
+        ]
     },
     {
         "id": 912,
@@ -15950,9 +14128,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/912.png",
-        "desc": "https://www.pokemon.com/us/pokedex/912"
+        ]
     },
     {
         "id": 913,
@@ -15967,9 +14143,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/913.png",
-        "desc": "https://www.pokemon.com/us/pokedex/913"
+        ]
     },
     {
         "id": 914,
@@ -15985,9 +14159,7 @@
         "type": [
             "Water",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/914.png",
-        "desc": "https://www.pokemon.com/us/pokedex/914"
+        ]
     },
     {
         "id": 915,
@@ -16002,9 +14174,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/915.png",
-        "desc": "https://www.pokemon.com/us/pokedex/915"
+        ]
     },
     {
         "id": 916,
@@ -16019,9 +14189,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/916.png",
-        "desc": "https://www.pokemon.com/us/pokedex/916"
+        ]
     },
     {
         "id": 917,
@@ -16036,9 +14204,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/917.png",
-        "desc": "https://www.pokemon.com/us/pokedex/917"
+        ]
     },
     {
         "id": 918,
@@ -16053,9 +14219,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/918.png",
-        "desc": "https://www.pokemon.com/us/pokedex/918"
+        ]
     },
     {
         "id": 919,
@@ -16070,9 +14234,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/919.png",
-        "desc": "https://www.pokemon.com/us/pokedex/919"
+        ]
     },
     {
         "id": 920,
@@ -16088,9 +14250,7 @@
         "type": [
             "Bug",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/920.png",
-        "desc": "https://www.pokemon.com/us/pokedex/920"
+        ]
     },
     {
         "id": 921,
@@ -16105,9 +14265,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/921.png",
-        "desc": "https://www.pokemon.com/us/pokedex/921"
+        ]
     },
     {
         "id": 922,
@@ -16123,9 +14281,7 @@
         "type": [
             "Electric",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/922.png",
-        "desc": "https://www.pokemon.com/us/pokedex/922"
+        ]
     },
     {
         "id": 923,
@@ -16141,9 +14297,7 @@
         "type": [
             "Electric",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/923.png",
-        "desc": "https://www.pokemon.com/us/pokedex/923"
+        ]
     },
     {
         "id": 924,
@@ -16158,9 +14312,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/924.png",
-        "desc": "https://www.pokemon.com/us/pokedex/924"
+        ]
     },
     {
         "id": 925,
@@ -16175,9 +14327,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/925.png",
-        "desc": "https://www.pokemon.com/us/pokedex/925"
+        ]
     },
     {
         "id": 926,
@@ -16192,9 +14342,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/926.png",
-        "desc": "https://www.pokemon.com/us/pokedex/926"
+        ]
     },
     {
         "id": 927,
@@ -16209,9 +14357,7 @@
         },
         "type": [
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/927.png",
-        "desc": "https://www.pokemon.com/us/pokedex/927"
+        ]
     },
     {
         "id": 928,
@@ -16227,9 +14373,7 @@
         "type": [
             "Grass",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/928.png",
-        "desc": "https://www.pokemon.com/us/pokedex/928"
+        ]
     },
     {
         "id": 929,
@@ -16245,9 +14389,7 @@
         "type": [
             "Grass",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/929.png",
-        "desc": "https://www.pokemon.com/us/pokedex/929"
+        ]
     },
     {
         "id": 930,
@@ -16263,9 +14405,7 @@
         "type": [
             "Grass",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/930.png",
-        "desc": "https://www.pokemon.com/us/pokedex/930"
+        ]
     },
     {
         "id": 931,
@@ -16281,9 +14421,7 @@
         "type": [
             "Normal",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/931.png",
-        "desc": "https://www.pokemon.com/us/pokedex/931"
+        ]
     },
     {
         "id": 932,
@@ -16298,9 +14436,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/932.png",
-        "desc": "https://www.pokemon.com/us/pokedex/932"
+        ]
     },
     {
         "id": 933,
@@ -16315,9 +14451,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/933.png",
-        "desc": "https://www.pokemon.com/us/pokedex/933"
+        ]
     },
     {
         "id": 934,
@@ -16332,9 +14466,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/934.png",
-        "desc": "https://www.pokemon.com/us/pokedex/934"
+        ]
     },
     {
         "id": 935,
@@ -16349,9 +14481,7 @@
         },
         "type": [
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/935.png",
-        "desc": "https://www.pokemon.com/us/pokedex/935"
+        ]
     },
     {
         "id": 936,
@@ -16367,9 +14497,7 @@
         "type": [
             "Fire",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/936.png",
-        "desc": "https://www.pokemon.com/us/pokedex/936"
+        ]
     },
     {
         "id": 937,
@@ -16385,9 +14513,7 @@
         "type": [
             "Fire",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/937.png",
-        "desc": "https://www.pokemon.com/us/pokedex/937"
+        ]
     },
     {
         "id": 938,
@@ -16402,9 +14528,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/938.png",
-        "desc": "https://www.pokemon.com/us/pokedex/938"
+        ]
     },
     {
         "id": 939,
@@ -16419,9 +14543,7 @@
         },
         "type": [
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/939.png",
-        "desc": "https://www.pokemon.com/us/pokedex/939"
+        ]
     },
     {
         "id": 940,
@@ -16437,9 +14559,7 @@
         "type": [
             "Electric",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/940.png",
-        "desc": "https://www.pokemon.com/us/pokedex/940"
+        ]
     },
     {
         "id": 941,
@@ -16455,9 +14575,7 @@
         "type": [
             "Electric",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/941.png",
-        "desc": "https://www.pokemon.com/us/pokedex/941"
+        ]
     },
     {
         "id": 942,
@@ -16472,9 +14590,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/942.png",
-        "desc": "https://www.pokemon.com/us/pokedex/942"
+        ]
     },
     {
         "id": 943,
@@ -16489,9 +14605,7 @@
         },
         "type": [
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/943.png",
-        "desc": "https://www.pokemon.com/us/pokedex/943"
+        ]
     },
     {
         "id": 944,
@@ -16507,9 +14621,7 @@
         "type": [
             "Poison",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/944.png",
-        "desc": "https://www.pokemon.com/us/pokedex/944"
+        ]
     },
     {
         "id": 945,
@@ -16525,9 +14637,7 @@
         "type": [
             "Poison",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/945.png",
-        "desc": "https://www.pokemon.com/us/pokedex/945"
+        ]
     },
     {
         "id": 946,
@@ -16543,9 +14653,7 @@
         "type": [
             "Grass",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/946.png",
-        "desc": "https://www.pokemon.com/us/pokedex/946"
+        ]
     },
     {
         "id": 947,
@@ -16561,9 +14669,7 @@
         "type": [
             "Grass",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/947.png",
-        "desc": "https://www.pokemon.com/us/pokedex/947"
+        ]
     },
     {
         "id": 948,
@@ -16579,9 +14685,7 @@
         "type": [
             "Ground",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/948.png",
-        "desc": "https://www.pokemon.com/us/pokedex/948"
+        ]
     },
     {
         "id": 949,
@@ -16597,9 +14701,7 @@
         "type": [
             "Ground",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/949.png",
-        "desc": "https://www.pokemon.com/us/pokedex/949"
+        ]
     },
     {
         "id": 950,
@@ -16614,9 +14716,7 @@
         },
         "type": [
             "Rock"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/950.png",
-        "desc": "https://www.pokemon.com/us/pokedex/950"
+        ]
     },
     {
         "id": 951,
@@ -16631,9 +14731,7 @@
         },
         "type": [
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/951.png",
-        "desc": "https://www.pokemon.com/us/pokedex/951"
+        ]
     },
     {
         "id": 952,
@@ -16649,9 +14747,7 @@
         "type": [
             "Grass",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/952.png",
-        "desc": "https://www.pokemon.com/us/pokedex/952"
+        ]
     },
     {
         "id": 953,
@@ -16666,9 +14762,7 @@
         },
         "type": [
             "Bug"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/953.png",
-        "desc": "https://www.pokemon.com/us/pokedex/953"
+        ]
     },
     {
         "id": 954,
@@ -16684,9 +14778,7 @@
         "type": [
             "Bug",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/954.png",
-        "desc": "https://www.pokemon.com/us/pokedex/954"
+        ]
     },
     {
         "id": 955,
@@ -16701,9 +14793,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/955.png",
-        "desc": "https://www.pokemon.com/us/pokedex/955"
+        ]
     },
     {
         "id": 956,
@@ -16718,9 +14808,7 @@
         },
         "type": [
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/956.png",
-        "desc": "https://www.pokemon.com/us/pokedex/956"
+        ]
     },
     {
         "id": 957,
@@ -16736,9 +14824,7 @@
         "type": [
             "Fairy",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/957.png",
-        "desc": "https://www.pokemon.com/us/pokedex/957"
+        ]
     },
     {
         "id": 958,
@@ -16754,9 +14840,7 @@
         "type": [
             "Fairy",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/958.png",
-        "desc": "https://www.pokemon.com/us/pokedex/958"
+        ]
     },
     {
         "id": 959,
@@ -16772,9 +14856,7 @@
         "type": [
             "Fairy",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/959.png",
-        "desc": "https://www.pokemon.com/us/pokedex/959"
+        ]
     },
     {
         "id": 960,
@@ -16789,9 +14871,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/960.png",
-        "desc": "https://www.pokemon.com/us/pokedex/960"
+        ]
     },
     {
         "id": 961,
@@ -16806,9 +14886,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/961.png",
-        "desc": "https://www.pokemon.com/us/pokedex/961"
+        ]
     },
     {
         "id": 962,
@@ -16824,9 +14902,7 @@
         "type": [
             "Flying",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/962.png",
-        "desc": "https://www.pokemon.com/us/pokedex/962"
+        ]
     },
     {
         "id": 963,
@@ -16841,9 +14917,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/963.png",
-        "desc": "https://www.pokemon.com/us/pokedex/963"
+        ]
     },
     {
         "id": 964,
@@ -16858,9 +14932,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/964.png",
-        "desc": "https://www.pokemon.com/us/pokedex/964"
+        ]
     },
     {
         "id": 965,
@@ -16876,9 +14948,7 @@
         "type": [
             "Steel",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/965.png",
-        "desc": "https://www.pokemon.com/us/pokedex/965"
+        ]
     },
     {
         "id": 966,
@@ -16894,9 +14964,7 @@
         "type": [
             "Steel",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/966.png",
-        "desc": "https://www.pokemon.com/us/pokedex/966"
+        ]
     },
     {
         "id": 967,
@@ -16912,9 +14980,7 @@
         "type": [
             "Dragon",
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/967.png",
-        "desc": "https://www.pokemon.com/us/pokedex/967"
+        ]
     },
     {
         "id": 968,
@@ -16929,9 +14995,7 @@
         },
         "type": [
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/968.png",
-        "desc": "https://www.pokemon.com/us/pokedex/968"
+        ]
     },
     {
         "id": 969,
@@ -16947,9 +15011,7 @@
         "type": [
             "Rock",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/969.png",
-        "desc": "https://www.pokemon.com/us/pokedex/969"
+        ]
     },
     {
         "id": 970,
@@ -16965,9 +15027,7 @@
         "type": [
             "Rock",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/970.png",
-        "desc": "https://www.pokemon.com/us/pokedex/970"
+        ]
     },
     {
         "id": 971,
@@ -16982,9 +15042,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/971.png",
-        "desc": "https://www.pokemon.com/us/pokedex/971"
+        ]
     },
     {
         "id": 972,
@@ -16999,9 +15057,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/972.png",
-        "desc": "https://www.pokemon.com/us/pokedex/972"
+        ]
     },
     {
         "id": 973,
@@ -17017,9 +15073,7 @@
         "type": [
             "Flying",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/973.png",
-        "desc": "https://www.pokemon.com/us/pokedex/973"
+        ]
     },
     {
         "id": 974,
@@ -17034,9 +15088,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/974.png",
-        "desc": "https://www.pokemon.com/us/pokedex/974"
+        ]
     },
     {
         "id": 975,
@@ -17051,9 +15103,7 @@
         },
         "type": [
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/975.png",
-        "desc": "https://www.pokemon.com/us/pokedex/975"
+        ]
     },
     {
         "id": 976,
@@ -17069,9 +15119,7 @@
         "type": [
             "Water",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/976.png",
-        "desc": "https://www.pokemon.com/us/pokedex/976"
+        ]
     },
     {
         "id": 977,
@@ -17086,9 +15134,7 @@
         },
         "type": [
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/977.png",
-        "desc": "https://www.pokemon.com/us/pokedex/977"
+        ]
     },
     {
         "id": 978,
@@ -17104,9 +15150,7 @@
         "type": [
             "Dragon",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/978.png",
-        "desc": "https://www.pokemon.com/us/pokedex/978"
+        ]
     },
     {
         "id": 979,
@@ -17122,9 +15166,7 @@
         "type": [
             "Fighting",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/979.png",
-        "desc": "https://www.pokemon.com/us/pokedex/979"
+        ]
     },
     {
         "id": 980,
@@ -17140,9 +15182,7 @@
         "type": [
             "Poison",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/980.png",
-        "desc": "https://www.pokemon.com/us/pokedex/980"
+        ]
     },
     {
         "id": 981,
@@ -17158,9 +15198,7 @@
         "type": [
             "Normal",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/981.png",
-        "desc": "https://www.pokemon.com/us/pokedex/981"
+        ]
     },
     {
         "id": 982,
@@ -17175,9 +15213,7 @@
         },
         "type": [
             "Normal"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/982.png",
-        "desc": "https://www.pokemon.com/us/pokedex/982"
+        ]
     },
     {
         "id": 983,
@@ -17193,9 +15229,7 @@
         "type": [
             "Dark",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/983.png",
-        "desc": "https://www.pokemon.com/us/pokedex/983"
+        ]
     },
     {
         "id": 984,
@@ -17211,9 +15245,7 @@
         "type": [
             "Ground",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/984.png",
-        "desc": "https://www.pokemon.com/us/pokedex/984"
+        ]
     },
     {
         "id": 985,
@@ -17229,9 +15261,7 @@
         "type": [
             "Fairy",
             "Psychic"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/985.png",
-        "desc": "https://www.pokemon.com/us/pokedex/985"
+        ]
     },
     {
         "id": 986,
@@ -17247,9 +15277,7 @@
         "type": [
             "Grass",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/986.png",
-        "desc": "https://www.pokemon.com/us/pokedex/986"
+        ]
     },
     {
         "id": 987,
@@ -17265,9 +15293,7 @@
         "type": [
             "Ghost",
             "Fairy"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/987.png",
-        "desc": "https://www.pokemon.com/us/pokedex/987"
+        ]
     },
     {
         "id": 988,
@@ -17283,9 +15309,7 @@
         "type": [
             "Bug",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/988.png",
-        "desc": "https://www.pokemon.com/us/pokedex/988"
+        ]
     },
     {
         "id": 989,
@@ -17301,9 +15325,7 @@
         "type": [
             "Electric",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/989.png",
-        "desc": "https://www.pokemon.com/us/pokedex/989"
+        ]
     },
     {
         "id": 990,
@@ -17319,9 +15341,7 @@
         "type": [
             "Ground",
             "Steel"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/990.png",
-        "desc": "https://www.pokemon.com/us/pokedex/990"
+        ]
     },
     {
         "id": 991,
@@ -17337,9 +15357,7 @@
         "type": [
             "Ice",
             "Water"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/991.png",
-        "desc": "https://www.pokemon.com/us/pokedex/991"
+        ]
     },
     {
         "id": 992,
@@ -17355,9 +15373,7 @@
         "type": [
             "Fighting",
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/992.png",
-        "desc": "https://www.pokemon.com/us/pokedex/992"
+        ]
     },
     {
         "id": 993,
@@ -17373,9 +15389,7 @@
         "type": [
             "Dark",
             "Flying"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/993.png",
-        "desc": "https://www.pokemon.com/us/pokedex/993"
+        ]
     },
     {
         "id": 994,
@@ -17391,9 +15405,7 @@
         "type": [
             "Fire",
             "Poison"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/994.png",
-        "desc": "https://www.pokemon.com/us/pokedex/994"
+        ]
     },
     {
         "id": 995,
@@ -17409,9 +15421,7 @@
         "type": [
             "Rock",
             "Electric"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/995.png",
-        "desc": "https://www.pokemon.com/us/pokedex/995"
+        ]
     },
     {
         "id": 996,
@@ -17427,9 +15437,7 @@
         "type": [
             "Dragon",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/996.png",
-        "desc": "https://www.pokemon.com/us/pokedex/996"
+        ]
     },
     {
         "id": 997,
@@ -17445,9 +15453,7 @@
         "type": [
             "Dragon",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/997.png",
-        "desc": "https://www.pokemon.com/us/pokedex/997"
+        ]
     },
     {
         "id": 998,
@@ -17463,9 +15469,7 @@
         "type": [
             "Dragon",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/998.png",
-        "desc": "https://www.pokemon.com/us/pokedex/998"
+        ]
     },
     {
         "id": 999,
@@ -17480,9 +15484,7 @@
         },
         "type": [
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/999.png",
-        "desc": "https://www.pokemon.com/us/pokedex/999"
+        ]
     },
     {
         "id": 1000,
@@ -17498,9 +15500,7 @@
         "type": [
             "Steel",
             "Ghost"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/1000.png",
-        "desc": "https://www.pokemon.com/us/pokedex/1000"
+        ]
     },
     {
         "id": 1001,
@@ -17516,9 +15516,7 @@
         "type": [
             "Dark",
             "Grass"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/1001.png",
-        "desc": "https://www.pokemon.com/us/pokedex/1001"
+        ]
     },
     {
         "id": 1002,
@@ -17534,9 +15532,7 @@
         "type": [
             "Dark",
             "Ice"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/1002.png",
-        "desc": "https://www.pokemon.com/us/pokedex/1002"
+        ]
     },
     {
         "id": 1003,
@@ -17552,9 +15548,7 @@
         "type": [
             "Dark",
             "Ground"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/1003.png",
-        "desc": "https://www.pokemon.com/us/pokedex/1003"
+        ]
     },
     {
         "id": 1004,
@@ -17570,9 +15564,7 @@
         "type": [
             "Dark",
             "Fire"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/1004.png",
-        "desc": "https://www.pokemon.com/us/pokedex/1004"
+        ]
     },
     {
         "id": 1005,
@@ -17588,9 +15580,7 @@
         "type": [
             "Dragon",
             "Dark"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/1005.png",
-        "desc": "https://www.pokemon.com/us/pokedex/1005"
+        ]
     },
     {
         "id": 1006,
@@ -17606,9 +15596,7 @@
         "type": [
             "Fairy",
             "Fighting"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/1006.png",
-        "desc": "https://www.pokemon.com/us/pokedex/1006"
+        ]
     },
     {
         "id": 1007,
@@ -17624,9 +15612,7 @@
         "type": [
             "Fighting",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/1007.png",
-        "desc": "https://www.pokemon.com/us/pokedex/1007"
+        ]
     },
     {
         "id": 1008,
@@ -17642,8 +15628,6 @@
         "type": [
             "Electric",
             "Dragon"
-        ],
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/1008.png",
-        "desc": "https://www.pokemon.com/us/pokedex/1008"
+        ]
     }
 ]
